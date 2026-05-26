@@ -48,11 +48,10 @@ python bom_analysis.py
 
 ## Key Findings using sample data
 ![alt text](image.png)
-- 47% of components are at risk (141 out of 300 are NRND, Obsolete, or EOL)
-- EOL and Obsolete parts average 44–45 week lead times vs 28 weeks for Active parts
-- Connectivity and Analog IC are the highest spend categories (~$7.5M each), not Power Management
-- PT Solutions and Mouser are the top suppliers by spend (22% and 19% respectively)
-- 313 risk flags generated — some parts flagged for both lifecycle AND lead time issues
-- One EOL part (IFX-3880-A) has a **64-week lead time** — critical sourcing action needed
----
-
+- 398 total components across 8 categories
+- $71.95M total BOM spend
+- 60% of components are at risk (EOL: 22.9%, NRND: 22.4%, Obsolete: 14.8%)
+- Analog IC and Sensor are the highest spend categories
+- Average lead time of 33.3 weeks across all parts
+- 313 risk flags generated across lifecycle and lead time issues
+- No single supplier dominates — concentration fairly distributed (~12–20% each)
