@@ -31,6 +31,7 @@ pip install pandas
 python bom_analysis.py
 
 ---
+```
 
 ## Power BI Dashboard
 
