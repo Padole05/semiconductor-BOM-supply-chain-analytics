@@ -1,0 +1,314 @@
+id,part_number,risk_type,severity,note,flagged_at
+1,REN-7912-A,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+2,ST-8359-E,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+3,ST-8359-E,Lead Time,HIGH,37 week lead time — consider safety stock,2026-05-25
+4,TI-2519-D,Lead Time,HIGH,52 week lead time — consider safety stock,2026-05-25
+5,MCH-2169-E,Lead Time,HIGH,48 week lead time — consider safety stock,2026-05-25
+6,REN-4598-C,Lead Time,HIGH,44 week lead time — consider safety stock,2026-05-25
+7,ST-9179-D,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+8,ST-9179-D,Lead Time,HIGH,40 week lead time — consider safety stock,2026-05-25
+9,MCH-8019-E,Lead Time,HIGH,38 week lead time — consider safety stock,2026-05-25
+10,REN-2040-D,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+11,REN-2040-D,Lead Time,HIGH,32 week lead time — consider safety stock,2026-05-25
+12,MCH-6573-A,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+13,MCH-6573-A,Lead Time,HIGH,63 week lead time — consider safety stock,2026-05-25
+14,REN-2743-C,Lead Time,HIGH,36 week lead time — consider safety stock,2026-05-25
+15,REN-6310-D,Lead Time,HIGH,37 week lead time — consider safety stock,2026-05-25
+16,MCH-6107-D,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+17,MCH-6107-D,Lead Time,HIGH,56 week lead time — consider safety stock,2026-05-25
+18,REN-4608-A,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+19,REN-4608-A,Lead Time,HIGH,33 week lead time — consider safety stock,2026-05-25
+20,ST-4139-B,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+21,IFX-1960-B,Lead Time,HIGH,34 week lead time — consider safety stock,2026-05-25
+22,ST-4111-C,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+23,ST-4111-C,Lead Time,HIGH,46 week lead time — consider safety stock,2026-05-25
+24,ST-1931-E,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+25,ST-1931-E,Lead Time,HIGH,65 week lead time — consider safety stock,2026-05-25
+26,REN-2343-D,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+27,REN-4492-E,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+28,MCH-5956-E,Lead Time,HIGH,32 week lead time — consider safety stock,2026-05-25
+29,NXP-5616-E,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+30,NXP-5616-E,Lead Time,HIGH,32 week lead time — consider safety stock,2026-05-25
+31,TI-7939-C,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+32,TI-7939-C,Lead Time,HIGH,45 week lead time — consider safety stock,2026-05-25
+33,REN-1158-A,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+34,REN-1158-A,Lead Time,HIGH,72 week lead time — consider safety stock,2026-05-25
+35,TI-6050-C,Lead Time,HIGH,31 week lead time — consider safety stock,2026-05-25
+36,ST-3900-D,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+37,ST-3900-D,Lead Time,HIGH,45 week lead time — consider safety stock,2026-05-25
+38,IFX-1634-D,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+39,IFX-1634-D,Lead Time,HIGH,32 week lead time — consider safety stock,2026-05-25
+40,NXP-1452-A,Lead Time,HIGH,47 week lead time — consider safety stock,2026-05-25
+41,IFX-9379-A,Lead Time,HIGH,50 week lead time — consider safety stock,2026-05-25
+42,MCH-4228-C,Lead Time,HIGH,37 week lead time — consider safety stock,2026-05-25
+43,IFX-5844-E,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+44,IFX-5844-E,Lead Time,HIGH,54 week lead time — consider safety stock,2026-05-25
+45,NXP-5700-B,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+46,NXP-5700-B,Lead Time,HIGH,51 week lead time — consider safety stock,2026-05-25
+47,MCH-3780-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+48,MCH-3780-A,Lead Time,HIGH,36 week lead time — consider safety stock,2026-05-25
+49,IFX-9099-D,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+50,REN-5082-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+51,REN-5082-A,Lead Time,HIGH,33 week lead time — consider safety stock,2026-05-25
+52,IFX-3607-D,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+53,IFX-3607-D,Lead Time,HIGH,31 week lead time — consider safety stock,2026-05-25
+54,ST-5451-C,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+55,ST-5451-C,Lead Time,HIGH,38 week lead time — consider safety stock,2026-05-25
+56,TI-7797-D,Lead Time,HIGH,49 week lead time — consider safety stock,2026-05-25
+57,REN-4613-D,Lead Time,HIGH,38 week lead time — consider safety stock,2026-05-25
+58,IFX-3091-E,Lead Time,HIGH,50 week lead time — consider safety stock,2026-05-25
+59,TI-5262-D,Lead Time,HIGH,33 week lead time — consider safety stock,2026-05-25
+60,TI-5051-B,Lead Time,HIGH,45 week lead time — consider safety stock,2026-05-25
+61,IFX-5198-C,Lead Time,HIGH,40 week lead time — consider safety stock,2026-05-25
+62,TI-1672-C,Lead Time,HIGH,47 week lead time — consider safety stock,2026-05-25
+63,MCH-8532-B,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+64,MCH-8532-B,Lead Time,HIGH,49 week lead time — consider safety stock,2026-05-25
+65,NXP-5022-A,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+66,NXP-5022-A,Lead Time,HIGH,50 week lead time — consider safety stock,2026-05-25
+67,ST-8988-B,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+68,ST-8988-B,Lead Time,HIGH,43 week lead time — consider safety stock,2026-05-25
+69,TI-4954-D,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+70,TI-4954-D,Lead Time,HIGH,53 week lead time — consider safety stock,2026-05-25
+71,MCH-4986-C,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+72,NXP-6023-C,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+73,NXP-6023-C,Lead Time,HIGH,73 week lead time — consider safety stock,2026-05-25
+74,IFX-2869-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+75,NXP-1986-E,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+76,NXP-1986-E,Lead Time,HIGH,41 week lead time — consider safety stock,2026-05-25
+77,MCH-8438-A,Lead Time,HIGH,49 week lead time — consider safety stock,2026-05-25
+78,NXP-3330-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+79,NXP-3330-A,Lead Time,HIGH,45 week lead time — consider safety stock,2026-05-25
+80,NXP-9199-E,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+81,NXP-9199-E,Lead Time,HIGH,48 week lead time — consider safety stock,2026-05-25
+82,TI-4750-E,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+83,IFX-9431-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+84,MCH-8242-A,Lead Time,HIGH,43 week lead time — consider safety stock,2026-05-25
+85,MCH-3522-D,Lead Time,HIGH,33 week lead time — consider safety stock,2026-05-25
+86,REN-3369-D,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+87,REN-7180-D,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+88,MCH-2315-C,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+89,MCH-2315-C,Lead Time,HIGH,54 week lead time — consider safety stock,2026-05-25
+90,MCH-5708-B,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+91,MCH-5708-B,Lead Time,HIGH,53 week lead time — consider safety stock,2026-05-25
+92,TI-6314-A,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+93,TI-6314-A,Lead Time,HIGH,40 week lead time — consider safety stock,2026-05-25
+94,ST-3785-B,Lead Time,HIGH,40 week lead time — consider safety stock,2026-05-25
+95,MCH-5161-D,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+96,REN-9138-C,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+97,REN-9138-C,Lead Time,HIGH,49 week lead time — consider safety stock,2026-05-25
+98,MCH-2591-A,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+99,MCH-2591-A,Lead Time,HIGH,59 week lead time — consider safety stock,2026-05-25
+100,REN-6994-E,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+101,REN-6994-E,Lead Time,HIGH,36 week lead time — consider safety stock,2026-05-25
+102,TI-8673-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+103,TI-8673-A,Lead Time,HIGH,51 week lead time — consider safety stock,2026-05-25
+104,REN-4626-A,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+105,REN-4626-A,Lead Time,HIGH,65 week lead time — consider safety stock,2026-05-25
+106,REN-5941-D,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+107,REN-5941-D,Lead Time,HIGH,50 week lead time — consider safety stock,2026-05-25
+108,IFX-2204-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+109,IFX-2204-A,Lead Time,HIGH,35 week lead time — consider safety stock,2026-05-25
+110,NXP-7240-E,Lead Time,HIGH,39 week lead time — consider safety stock,2026-05-25
+111,REN-4522-D,Lead Time,HIGH,45 week lead time — consider safety stock,2026-05-25
+112,NXP-5176-C,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+113,MCH-7105-B,Lead Time,HIGH,31 week lead time — consider safety stock,2026-05-25
+114,NXP-6119-C,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+115,NXP-6119-C,Lead Time,HIGH,55 week lead time — consider safety stock,2026-05-25
+116,TI-3955-C,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+117,IFX-2140-B,Lead Time,HIGH,40 week lead time — consider safety stock,2026-05-25
+118,NXP-6314-E,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+119,NXP-6314-E,Lead Time,HIGH,49 week lead time — consider safety stock,2026-05-25
+120,NXP-8259-D,Lead Time,HIGH,47 week lead time — consider safety stock,2026-05-25
+121,IFX-2275-C,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+122,IFX-2275-C,Lead Time,HIGH,31 week lead time — consider safety stock,2026-05-25
+123,NXP-6562-B,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+124,TI-3399-C,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+125,TI-3399-C,Lead Time,HIGH,41 week lead time — consider safety stock,2026-05-25
+126,REN-8354-E,Lead Time,HIGH,33 week lead time — consider safety stock,2026-05-25
+127,NXP-5500-E,Lead Time,HIGH,32 week lead time — consider safety stock,2026-05-25
+128,MCH-4084-C,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+129,MCH-4084-C,Lead Time,HIGH,32 week lead time — consider safety stock,2026-05-25
+130,REN-3827-A,Lead Time,HIGH,49 week lead time — consider safety stock,2026-05-25
+131,IFX-6543-E,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+132,IFX-6543-E,Lead Time,HIGH,47 week lead time — consider safety stock,2026-05-25
+133,NXP-1298-C,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+134,NXP-1298-C,Lead Time,HIGH,33 week lead time — consider safety stock,2026-05-25
+135,NXP-2657-E,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+136,MCH-3712-D,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+137,MCH-3712-D,Lead Time,HIGH,55 week lead time — consider safety stock,2026-05-25
+138,ST-6070-D,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+139,ST-4271-E,Lead Time,HIGH,37 week lead time — consider safety stock,2026-05-25
+140,TI-5670-A,Lead Time,HIGH,49 week lead time — consider safety stock,2026-05-25
+141,TI-7797-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+142,TI-7797-A,Lead Time,HIGH,32 week lead time — consider safety stock,2026-05-25
+143,NXP-2623-C,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+144,IFX-8349-E,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+145,IFX-8349-E,Lead Time,HIGH,52 week lead time — consider safety stock,2026-05-25
+146,REN-7934-A,Lead Time,HIGH,50 week lead time — consider safety stock,2026-05-25
+147,NXP-5155-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+148,NXP-5155-A,Lead Time,HIGH,44 week lead time — consider safety stock,2026-05-25
+149,REN-6546-B,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+150,REN-6546-B,Lead Time,HIGH,60 week lead time — consider safety stock,2026-05-25
+151,TI-6438-C,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+152,TI-6438-C,Lead Time,HIGH,71 week lead time — consider safety stock,2026-05-25
+153,NXP-9507-C,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+154,NXP-9507-C,Lead Time,HIGH,48 week lead time — consider safety stock,2026-05-25
+155,NXP-2680-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+156,NXP-2680-A,Lead Time,HIGH,38 week lead time — consider safety stock,2026-05-25
+157,IFX-6759-D,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+158,REN-7012-D,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+159,REN-7012-D,Lead Time,HIGH,39 week lead time — consider safety stock,2026-05-25
+160,IFX-2929-C,Lead Time,HIGH,35 week lead time — consider safety stock,2026-05-25
+161,IFX-3828-D,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+162,NXP-9335-B,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+163,NXP-9335-B,Lead Time,HIGH,35 week lead time — consider safety stock,2026-05-25
+164,IFX-3126-E,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+165,IFX-3126-E,Lead Time,HIGH,40 week lead time — consider safety stock,2026-05-25
+166,ST-6194-A,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+167,ST-6194-A,Lead Time,HIGH,40 week lead time — consider safety stock,2026-05-25
+168,ST-3114-D,Lead Time,HIGH,44 week lead time — consider safety stock,2026-05-25
+169,NXP-9501-C,Lead Time,HIGH,49 week lead time — consider safety stock,2026-05-25
+170,MCH-4453-E,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+171,NXP-8430-A,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+172,NXP-8430-A,Lead Time,HIGH,54 week lead time — consider safety stock,2026-05-25
+173,ST-6121-C,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+174,ST-3616-C,Lead Time,HIGH,43 week lead time — consider safety stock,2026-05-25
+175,NXP-9148-A,Lead Time,HIGH,33 week lead time — consider safety stock,2026-05-25
+176,IFX-6995-A,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+177,IFX-6995-A,Lead Time,HIGH,50 week lead time — consider safety stock,2026-05-25
+178,ST-4261-E,Lead Time,HIGH,39 week lead time — consider safety stock,2026-05-25
+179,IFX-3440-E,Lead Time,HIGH,34 week lead time — consider safety stock,2026-05-25
+180,REN-9351-E,Lead Time,HIGH,41 week lead time — consider safety stock,2026-05-25
+181,ST-4968-A,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+182,ST-4968-A,Lead Time,HIGH,64 week lead time — consider safety stock,2026-05-25
+183,REN-7173-C,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+184,REN-7173-C,Lead Time,HIGH,62 week lead time — consider safety stock,2026-05-25
+185,NXP-5890-B,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+186,NXP-5890-B,Lead Time,HIGH,58 week lead time — consider safety stock,2026-05-25
+187,NXP-2996-E,Lead Time,HIGH,50 week lead time — consider safety stock,2026-05-25
+188,IFX-4267-C,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+189,IFX-4267-C,Lead Time,HIGH,62 week lead time — consider safety stock,2026-05-25
+190,IFX-3880-A,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+191,IFX-3880-A,Lead Time,HIGH,64 week lead time — consider safety stock,2026-05-25
+192,NXP-5662-D,Lead Time,HIGH,42 week lead time — consider safety stock,2026-05-25
+193,ST-3875-E,Lead Time,HIGH,40 week lead time — consider safety stock,2026-05-25
+194,MCH-1187-C,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+195,MCH-2923-C,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+196,MCH-2923-C,Lead Time,HIGH,31 week lead time — consider safety stock,2026-05-25
+197,NXP-7813-E,Lead Time,HIGH,51 week lead time — consider safety stock,2026-05-25
+198,TI-2838-A,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+199,TI-2838-A,Lead Time,HIGH,56 week lead time — consider safety stock,2026-05-25
+200,MCH-4365-E,Lead Time,HIGH,32 week lead time — consider safety stock,2026-05-25
+201,REN-2196-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+202,REN-2196-A,Lead Time,HIGH,51 week lead time — consider safety stock,2026-05-25
+203,MCH-9835-B,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+204,NXP-8585-E,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+205,NXP-8585-E,Lead Time,HIGH,58 week lead time — consider safety stock,2026-05-25
+206,NXP-7821-D,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+207,NXP-7821-D,Lead Time,HIGH,69 week lead time — consider safety stock,2026-05-25
+208,TI-7761-D,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+209,TI-7761-D,Lead Time,HIGH,45 week lead time — consider safety stock,2026-05-25
+210,IFX-7079-A,Lead Time,HIGH,45 week lead time — consider safety stock,2026-05-25
+211,TI-4082-E,Lead Time,HIGH,42 week lead time — consider safety stock,2026-05-25
+212,ST-4113-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+213,IFX-8639-E,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+214,MCH-8692-C,Lead Time,HIGH,33 week lead time — consider safety stock,2026-05-25
+215,TI-5272-E,Lead Time,HIGH,51 week lead time — consider safety stock,2026-05-25
+216,MCH-6770-B,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+217,MCH-6770-B,Lead Time,HIGH,33 week lead time — consider safety stock,2026-05-25
+218,REN-1554-A,Lead Time,HIGH,45 week lead time — consider safety stock,2026-05-25
+219,TI-1274-E,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+220,TI-1274-E,Lead Time,HIGH,67 week lead time — consider safety stock,2026-05-25
+221,IFX-7213-D,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+222,IFX-7213-D,Lead Time,HIGH,55 week lead time — consider safety stock,2026-05-25
+223,REN-1697-B,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+224,REN-1697-B,Lead Time,HIGH,42 week lead time — consider safety stock,2026-05-25
+225,MCH-1539-B,Lead Time,HIGH,38 week lead time — consider safety stock,2026-05-25
+226,MCH-9856-C,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+227,MCH-9856-C,Lead Time,HIGH,43 week lead time — consider safety stock,2026-05-25
+228,NXP-7499-C,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+229,ST-7227-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+230,ST-7383-C,Lead Time,HIGH,49 week lead time — consider safety stock,2026-05-25
+231,REN-6315-D,Lead Time,HIGH,39 week lead time — consider safety stock,2026-05-25
+232,ST-8501-A,Lead Time,HIGH,42 week lead time — consider safety stock,2026-05-25
+233,MCH-9044-E,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+234,REN-3947-E,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+235,IFX-3280-C,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+236,IFX-9755-E,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+237,IFX-9755-E,Lead Time,HIGH,34 week lead time — consider safety stock,2026-05-25
+238,TI-2791-B,Lead Time,HIGH,42 week lead time — consider safety stock,2026-05-25
+239,IFX-2735-A,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+240,IFX-2735-A,Lead Time,HIGH,63 week lead time — consider safety stock,2026-05-25
+241,MCH-9199-B,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+242,MCH-9199-B,Lead Time,HIGH,47 week lead time — consider safety stock,2026-05-25
+243,IFX-6225-A,Lead Time,HIGH,50 week lead time — consider safety stock,2026-05-25
+244,REN-3858-E,Lead Time,HIGH,51 week lead time — consider safety stock,2026-05-25
+245,ST-8080-D,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+246,ST-8080-D,Lead Time,HIGH,44 week lead time — consider safety stock,2026-05-25
+247,REN-2667-E,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+248,REN-2667-E,Lead Time,HIGH,59 week lead time — consider safety stock,2026-05-25
+249,NXP-7367-E,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+250,NXP-7367-E,Lead Time,HIGH,37 week lead time — consider safety stock,2026-05-25
+251,NXP-2388-B,Lead Time,HIGH,47 week lead time — consider safety stock,2026-05-25
+252,IFX-3258-E,Lead Time,HIGH,36 week lead time — consider safety stock,2026-05-25
+253,ST-6154-D,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+254,ST-6154-D,Lead Time,HIGH,51 week lead time — consider safety stock,2026-05-25
+255,MCH-9109-D,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+256,MCH-9109-D,Lead Time,HIGH,39 week lead time — consider safety stock,2026-05-25
+257,NXP-1535-C,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+258,TI-2871-C,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+259,TI-2871-C,Lead Time,HIGH,39 week lead time — consider safety stock,2026-05-25
+260,NXP-1528-D,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+261,NXP-1528-D,Lead Time,HIGH,46 week lead time — consider safety stock,2026-05-25
+262,REN-5605-E,Lead Time,HIGH,40 week lead time — consider safety stock,2026-05-25
+263,ST-7743-A,Lead Time,HIGH,47 week lead time — consider safety stock,2026-05-25
+264,MCH-5558-C,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+265,REN-7516-B,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+266,REN-7516-B,Lead Time,HIGH,54 week lead time — consider safety stock,2026-05-25
+267,ST-8951-C,Lead Time,HIGH,39 week lead time — consider safety stock,2026-05-25
+268,IFX-8479-A,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+269,TI-2559-A,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+270,TI-2559-A,Lead Time,HIGH,31 week lead time — consider safety stock,2026-05-25
+271,IFX-3165-D,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+272,IFX-3181-B,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+273,IFX-3181-B,Lead Time,HIGH,36 week lead time — consider safety stock,2026-05-25
+274,IFX-8248-B,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+275,IFX-8248-B,Lead Time,HIGH,44 week lead time — consider safety stock,2026-05-25
+276,NXP-2380-B,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+277,NXP-2380-B,Lead Time,HIGH,46 week lead time — consider safety stock,2026-05-25
+278,NXP-1894-B,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+279,NXP-1894-B,Lead Time,HIGH,57 week lead time — consider safety stock,2026-05-25
+280,NXP-6185-B,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+281,NXP-6185-B,Lead Time,HIGH,37 week lead time — consider safety stock,2026-05-25
+282,NXP-4534-A,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+283,NXP-2369-C,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+284,NXP-2369-C,Lead Time,HIGH,43 week lead time — consider safety stock,2026-05-25
+285,NXP-8167-B,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+286,NXP-8167-B,Lead Time,HIGH,54 week lead time — consider safety stock,2026-05-25
+287,MCH-5247-B,Lead Time,HIGH,37 week lead time — consider safety stock,2026-05-25
+288,TI-2889-B,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+289,TI-2889-B,Lead Time,HIGH,56 week lead time — consider safety stock,2026-05-25
+290,MCH-4974-D,Lead Time,HIGH,40 week lead time — consider safety stock,2026-05-25
+291,ST-9872-C,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+292,TI-4361-E,Lead Time,HIGH,51 week lead time — consider safety stock,2026-05-25
+293,MCH-3141-B,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+294,ST-3230-E,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+295,ST-3230-E,Lead Time,HIGH,34 week lead time — consider safety stock,2026-05-25
+296,NXP-4401-D,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+297,REN-1660-B,Lead Time,HIGH,49 week lead time — consider safety stock,2026-05-25
+298,NXP-3848-A,Lead Time,HIGH,47 week lead time — consider safety stock,2026-05-25
+299,ST-2506-C,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+300,IFX-1483-D,Lead Time,HIGH,50 week lead time — consider safety stock,2026-05-25
+301,TI-5583-D,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+302,TI-5583-D,Lead Time,HIGH,34 week lead time — consider safety stock,2026-05-25
+303,IFX-9921-D,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+304,ST-1480-C,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+305,REN-1916-B,Lifecycle,HIGH,Part is Obsolete — source alternative now,2026-05-25
+306,NXP-1462-C,Lead Time,HIGH,51 week lead time — consider safety stock,2026-05-25
+307,TI-1920-B,Lifecycle,MEDIUM,Not Recommended for New Designs — plan replacement,2026-05-25
+308,TI-1920-B,Lead Time,HIGH,35 week lead time — consider safety stock,2026-05-25
+309,MCH-6198-B,Lead Time,HIGH,44 week lead time — consider safety stock,2026-05-25
+310,ST-3911-A,Lifecycle,HIGH,Part is EOL — source alternative now,2026-05-25
+311,ST-3911-A,Lead Time,HIGH,45 week lead time — consider safety stock,2026-05-25
+312,TI-9129-B,Lead Time,HIGH,44 week lead time — consider safety stock,2026-05-25
+313,MCH-6500-D,Lead Time,HIGH,44 week lead time — consider safety stock,2026-05-25

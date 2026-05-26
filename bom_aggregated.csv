@@ -1,0 +1,299 @@
+category,manufacturer,supplier,industry,lifecycle,part_count,total_spend,avg_lead_wks,risk_flag_count
+Analog IC,Infineon,Avnet,Financial Services,NRND,2,316913.06,34.0,2
+Analog IC,Infineon,Digi-Key,Automotive,Active,1,1386.0,37.0,1
+Analog IC,Infineon,Digi-Key,Financial Services,Active,1,18220.8,36.0,1
+Analog IC,Infineon,Future Electronics,Financial Services,EOL,2,320617.4,55.0,2
+Analog IC,Infineon,Future Electronics,Industrial Automation,Active,1,232779.48,9.0,0
+Analog IC,Infineon,Mouser,Renewable Energy,Obsolete,2,274910.12,38.0,2
+Analog IC,Microchip,Avnet,Consumer Electronics,Active,1,249511.59,42.0,1
+Analog IC,Microchip,Avnet,Medical,NRND,2,661840.68,33.0,2
+Analog IC,Microchip,Digi-Key,Renewable Energy,Obsolete,2,756554.98,53.0,2
+Analog IC,Microchip,Future Electronics,Industrial Automation,Active,1,23149.95,9.0,0
+Analog IC,Microchip,Mouser,Medical,Active,1,205725.7,47.0,1
+Analog IC,Microchip,Mouser,Renewable Energy,Active,1,273104.48,11.0,0
+Analog IC,NXP,Arrow Electronics,Renewable Energy,Active,1,376233.09,22.0,0
+Analog IC,NXP,Avnet,Industrial Automation,NRND,2,399139.56,51.0,2
+Analog IC,NXP,Digi-Key,Consumer Electronics,Active,1,96772.61,38.0,1
+Analog IC,NXP,Mouser,Medical,Active,1,167544.33,9.0,0
+Analog IC,NXP,PT Solutions,Renewable Energy,Active,1,3902.09,42.0,1
+Analog IC,ON Semiconductor,Arrow Electronics,Medical,NRND,1,143767.48,16.0,1
+Analog IC,ON Semiconductor,Avnet,Automotive,NRND,2,221548.96,46.0,2
+Analog IC,ON Semiconductor,PT Solutions,Medical,Active,1,31660.1,28.0,0
+Analog IC,ROHM,Avnet,Consumer Electronics,Active,1,92393.58,7.0,0
+Analog IC,ROHM,Digi-Key,Automotive,Obsolete,2,4914.72,50.0,2
+Analog IC,ROHM,Mouser,Automotive,Active,1,181152.44,38.0,1
+Analog IC,ROHM,Mouser,Financial Services,Obsolete,2,48769.02,63.0,2
+Analog IC,ROHM,Mouser,Medical,Active,1,337069.7,10.0,0
+Analog IC,ROHM,PT Solutions,Automotive,Active,1,195480.37,39.0,1
+Analog IC,Renesas,Arrow Electronics,Medical,NRND,1,179350.5,14.0,1
+Analog IC,Renesas,Avnet,Consumer Electronics,Active,1,178075.96,33.0,1
+Analog IC,Renesas,Digi-Key,Automotive,Active,1,22144.85,14.0,0
+Analog IC,Renesas,Digi-Key,Financial Services,NRND,2,53091.22,48.0,2
+Analog IC,STMicroelectronics,Mouser,Industrial Automation,Active,1,179122.5,47.0,1
+Analog IC,Texas Instruments,Arrow Electronics,Automotive,NRND,2,135642.86,52.0,2
+Analog IC,Texas Instruments,Arrow Electronics,Consumer Electronics,Active,1,372273.9,20.0,0
+Analog IC,Texas Instruments,Avnet,Medical,EOL,2,73170.96,32.0,2
+Analog IC,Texas Instruments,Mouser,Industrial Automation,Active,1,319764.9,50.0,1
+Analog IC,Vishay,Arrow Electronics,Renewable Energy,EOL,2,1036288.92,43.0,2
+Analog IC,Vishay,Avnet,Industrial Automation,Active,1,151075.88,15.0,0
+Analog IC,Vishay,Avnet,Medical,Active,1,74217.1,9.0,0
+Analog IC,Vishay,Avnet,Renewable Energy,NRND,1,275182.88,19.0,1
+Analog IC,Vishay,Mouser,Financial Services,Obsolete,2,1571730.38,50.0,2
+Analog IC,Vishay,PT Solutions,Renewable Energy,Active,1,172424.95,18.0,0
+Connectivity,Infineon,Arrow Electronics,Financial Services,Active,1,72774.29,19.0,0
+Connectivity,Infineon,Arrow Electronics,Industrial Automation,EOL,2,272338.56,45.0,2
+Connectivity,Infineon,Digi-Key,Consumer Electronics,Active,1,248310.72,18.0,0
+Connectivity,Infineon,Digi-Key,Renewable Energy,Active,1,151991.26,51.0,1
+Connectivity,Infineon,Future Electronics,Renewable Energy,EOL,2,246123.38,56.0,2
+Connectivity,Infineon,Mouser,Automotive,NRND,2,242106.58,47.0,2
+Connectivity,Infineon,Mouser,Automotive,Obsolete,2,1534502.48,37.0,2
+Connectivity,Infineon,Mouser,Renewable Energy,EOL,1,1302851.44,24.0,1
+Connectivity,Infineon,PT Solutions,Consumer Electronics,NRND,1,352544.28,24.0,1
+Connectivity,Microchip,Arrow Electronics,Automotive,EOL,2,498475.28,45.0,2
+Connectivity,Microchip,Arrow Electronics,Financial Services,Active,1,179089.43,33.0,1
+Connectivity,Microchip,Avnet,Consumer Electronics,NRND,2,278922.32,21.0,2
+Connectivity,Microchip,Avnet,Industrial Automation,NRND,1,260452.33,18.0,1
+Connectivity,Microchip,Digi-Key,Renewable Energy,NRND,2,78209.74,37.0,2
+Connectivity,Microchip,Future Electronics,Renewable Energy,Active,1,318808.64,18.0,0
+Connectivity,Microchip,Mouser,Financial Services,EOL,2,214061.16,59.0,2
+Connectivity,Microchip,Mouser,Industrial Automation,Active,1,113134.66,8.0,0
+Connectivity,Microchip,PT Solutions,Financial Services,EOL,2,175993.32,60.0,2
+Connectivity,Microchip,PT Solutions,Renewable Energy,EOL,2,483020.42,45.0,2
+Connectivity,NXP,Arrow Electronics,Automotive,NRND,2,20766.16,40.0,2
+Connectivity,NXP,Avnet,Renewable Energy,Active,1,38144.21,40.0,1
+Connectivity,NXP,Future Electronics,Industrial Automation,NRND,2,133514.28,35.0,2
+Connectivity,ON Semiconductor,Future Electronics,Medical,Active,1,55598.2,21.0,0
+Connectivity,ON Semiconductor,Mouser,Medical,NRND,1,91717.29,18.0,1
+Connectivity,ON Semiconductor,PT Solutions,Consumer Electronics,NRND,1,173662.22,23.0,1
+Connectivity,ON Semiconductor,PT Solutions,Financial Services,Active,1,50150.4,21.0,0
+Connectivity,ROHM,Arrow Electronics,Medical,Obsolete,1,180331.14,26.0,1
+Connectivity,ROHM,Avnet,Consumer Electronics,NRND,1,39060.29,30.0,1
+Connectivity,ROHM,PT Solutions,Medical,EOL,1,591749.77,21.0,1
+Connectivity,Renesas,Arrow Electronics,Industrial Automation,NRND,2,36279.6,45.0,2
+Connectivity,Renesas,Mouser,Medical,Active,1,3453.03,35.0,1
+Connectivity,STMicroelectronics,Arrow Electronics,Consumer Electronics,Active,1,115651.65,44.0,1
+Connectivity,STMicroelectronics,Digi-Key,Financial Services,Active,1,13855.22,47.0,1
+Connectivity,STMicroelectronics,Digi-Key,Renewable Energy,NRND,2,64129.42,37.0,2
+Connectivity,STMicroelectronics,Future Electronics,Financial Services,Active,1,147006.96,47.0,1
+Connectivity,STMicroelectronics,Future Electronics,Renewable Energy,Active,1,129055.04,13.0,0
+Connectivity,STMicroelectronics,Mouser,Industrial Automation,NRND,1,215422.65,9.0,1
+Connectivity,Texas Instruments,Avnet,Renewable Energy,Active,1,209036.94,8.0,0
+Connectivity,Texas Instruments,PT Solutions,Automotive,Active,1,28109.25,6.0,0
+Connectivity,Vishay,Arrow Electronics,Industrial Automation,Active,1,87327.5,44.0,1
+Connectivity,Vishay,Avnet,Financial Services,Active,1,45392.65,11.0,0
+Connectivity,Vishay,Mouser,Renewable Energy,Active,1,103136.48,10.0,0
+Connectivity,Vishay,PT Solutions,Financial Services,NRND,1,48704.92,23.0,1
+Connectivity,Vishay,PT Solutions,Renewable Energy,Active,1,28792.15,28.0,0
+Logic IC,Infineon,Avnet,Consumer Electronics,Obsolete,2,6772.16,59.0,2
+Logic IC,Infineon,Mouser,Consumer Electronics,Obsolete,2,884256.4,43.0,2
+Logic IC,Infineon,PT Solutions,Renewable Energy,Active,1,187762.21,50.0,1
+Logic IC,Infineon,PT Solutions,Renewable Energy,EOL,1,498039.59,25.0,1
+Logic IC,Microchip,Arrow Electronics,Medical,Obsolete,2,367467.62,33.0,2
+Logic IC,Microchip,Avnet,Automotive,Obsolete,2,734423.38,73.0,2
+Logic IC,Microchip,Mouser,Renewable Energy,NRND,2,132390.72,36.0,2
+Logic IC,NXP,Digi-Key,Automotive,Active,1,52194.1,25.0,0
+Logic IC,NXP,Digi-Key,Financial Services,Active,1,223054.83,16.0,0
+Logic IC,NXP,Future Electronics,Automotive,EOL,2,355797.0,51.0,2
+Logic IC,NXP,PT Solutions,Consumer Electronics,NRND,1,69235.35,25.0,1
+Logic IC,NXP,PT Solutions,Medical,Obsolete,2,477020.36,56.0,2
+Logic IC,NXP,PT Solutions,Renewable Energy,Active,1,175693.86,36.0,1
+Logic IC,ON Semiconductor,Avnet,Renewable Energy,NRND,1,66171.38,5.0,1
+Logic IC,ON Semiconductor,Future Electronics,Automotive,Active,1,109901.73,50.0,1
+Logic IC,ON Semiconductor,Mouser,Renewable Energy,Active,1,21666.22,12.0,0
+Logic IC,ON Semiconductor,PT Solutions,Automotive,Active,1,252830.48,30.0,0
+Logic IC,ROHM,Arrow Electronics,Medical,Obsolete,2,442013.1,47.0,2
+Logic IC,ROHM,Avnet,Consumer Electronics,Active,1,273141.61,37.0,1
+Logic IC,ROHM,PT Solutions,Industrial Automation,Active,1,6690.51,49.0,1
+Logic IC,ROHM,PT Solutions,Renewable Energy,Obsolete,2,608180.08,56.0,2
+Logic IC,Renesas,Arrow Electronics,Renewable Energy,Active,1,76129.15,21.0,0
+Logic IC,Renesas,Digi-Key,Consumer Electronics,Active,1,28427.19,30.0,0
+Logic IC,Renesas,Digi-Key,Financial Services,NRND,1,56951.36,7.0,1
+Logic IC,Renesas,Future Electronics,Consumer Electronics,NRND,1,88212.2,28.0,1
+Logic IC,STMicroelectronics,Avnet,Industrial Automation,NRND,1,355920.08,16.0,1
+Logic IC,STMicroelectronics,PT Solutions,Financial Services,Active,1,128648.94,17.0,0
+Logic IC,Texas Instruments,Arrow Electronics,Automotive,Active,1,46863.46,12.0,0
+Logic IC,Texas Instruments,Avnet,Consumer Electronics,Active,1,40084.3,49.0,1
+Logic IC,Texas Instruments,Mouser,Renewable Energy,NRND,2,64836.46,35.0,2
+Logic IC,Texas Instruments,PT Solutions,Automotive,EOL,2,809452.58,54.0,2
+Logic IC,Texas Instruments,PT Solutions,Consumer Electronics,Active,1,75127.35,8.0,0
+Logic IC,Vishay,Digi-Key,Medical,Active,1,162529.77,30.0,0
+Logic IC,Vishay,Mouser,Automotive,Active,1,145759.5,50.0,1
+Logic IC,Vishay,Mouser,Renewable Energy,Active,1,75273.22,40.0,1
+Logic IC,Vishay,PT Solutions,Automotive,Active,1,346915.39,45.0,1
+Logic IC,Vishay,PT Solutions,Financial Services,Active,1,278105.71,21.0,0
+Logic IC,Vishay,PT Solutions,Medical,Active,1,53148.3,7.0,0
+Memory,Infineon,Arrow Electronics,Automotive,Active,1,287045.1,37.0,1
+Memory,Infineon,Arrow Electronics,Industrial Automation,Obsolete,2,857429.14,54.0,2
+Memory,Infineon,Digi-Key,Automotive,Active,1,119291.33,32.0,1
+Memory,Infineon,Digi-Key,Medical,EOL,2,259929.56,43.0,2
+Memory,Infineon,Digi-Key,Renewable Energy,Obsolete,2,101753.62,32.0,2
+Memory,Infineon,Future Electronics,Consumer Electronics,Active,1,105890.6,19.0,0
+Memory,Microchip,Arrow Electronics,Consumer Electronics,EOL,2,1501356.28,63.0,2
+Memory,Microchip,Arrow Electronics,Medical,EOL,2,639283.82,72.0,2
+Memory,Microchip,Future Electronics,Renewable Energy,Active,1,52679.17,51.0,1
+Memory,Microchip,Mouser,Industrial Automation,EOL,2,1640546.94,33.0,2
+Memory,Microchip,PT Solutions,Industrial Automation,Active,1,66415.31,48.0,1
+Memory,NXP,Arrow Electronics,Consumer Electronics,Active,1,215805.04,8.0,0
+Memory,NXP,Future Electronics,Industrial Automation,Active,1,34302.86,40.0,1
+Memory,NXP,Future Electronics,Medical,Active,1,33028.5,19.0,0
+Memory,ON Semiconductor,Digi-Key,Industrial Automation,Active,1,38498.44,24.0,0
+Memory,ON Semiconductor,Future Electronics,Renewable Energy,Obsolete,2,278202.96,45.0,2
+Memory,ROHM,Arrow Electronics,Consumer Electronics,Active,1,20336.19,6.0,0
+Memory,ROHM,Digi-Key,Renewable Energy,NRND,2,28666.7,32.0,2
+Memory,ROHM,Mouser,Industrial Automation,NRND,1,129940.27,25.0,1
+Memory,Renesas,Future Electronics,Consumer Electronics,NRND,2,391261.66,39.0,2
+Memory,Renesas,PT Solutions,Financial Services,Active,1,151930.68,40.0,1
+Memory,STMicroelectronics,Arrow Electronics,Consumer Electronics,Active,1,37242.81,49.0,1
+Memory,STMicroelectronics,Arrow Electronics,Industrial Automation,Obsolete,1,228069.06,15.0,1
+Memory,STMicroelectronics,Digi-Key,Renewable Energy,Obsolete,2,252616.98,58.0,2
+Memory,STMicroelectronics,Future Electronics,Financial Services,Active,1,93397.94,39.0,1
+Memory,STMicroelectronics,Mouser,Financial Services,NRND,1,132400.94,11.0,1
+Memory,STMicroelectronics,Mouser,Renewable Energy,Active,1,24836.66,49.0,1
+Memory,STMicroelectronics,PT Solutions,Industrial Automation,Active,1,2031.26,23.0,0
+Memory,Texas Instruments,Arrow Electronics,Automotive,NRND,2,104889.34,44.0,2
+Memory,Texas Instruments,Digi-Key,Renewable Energy,Active,1,26745.96,47.0,1
+Memory,Texas Instruments,Mouser,Automotive,Active,1,26394.29,29.0,0
+Memory,Texas Instruments,Mouser,Medical,EOL,2,795019.08,39.0,2
+Memory,Vishay,Avnet,Medical,Active,1,108183.01,49.0,1
+Memory,Vishay,Mouser,Renewable Energy,Active,1,148326.64,11.0,0
+Memory,Vishay,PT Solutions,Consumer Electronics,Active,1,80169.45,25.0,0
+Microcontroller,Infineon,Future Electronics,Medical,Obsolete,2,1208819.4,64.0,2
+Microcontroller,Infineon,Mouser,Renewable Energy,EOL,2,163747.0,31.0,2
+Microcontroller,Infineon,PT Solutions,Medical,Active,1,159326.85,42.0,1
+Microcontroller,Microchip,Digi-Key,Industrial Automation,EOL,2,194443.7,54.0,2
+Microcontroller,Microchip,PT Solutions,Consumer Electronics,Obsolete,2,662419.02,67.0,2
+Microcontroller,Microchip,PT Solutions,Financial Services,NRND,2,73505.18,39.0,2
+Microcontroller,NXP,Arrow Electronics,Consumer Electronics,Active,1,60580.08,31.0,1
+Microcontroller,NXP,Avnet,Financial Services,NRND,2,205119.92,31.0,2
+Microcontroller,NXP,Mouser,Financial Services,Active,1,259646.26,6.0,0
+Microcontroller,NXP,Mouser,Industrial Automation,Active,1,120327.0,37.0,1
+Microcontroller,ON Semiconductor,Mouser,Industrial Automation,Active,1,61264.89,33.0,1
+Microcontroller,ON Semiconductor,Mouser,Medical,Active,1,93174.64,44.0,1
+Microcontroller,ROHM,Avnet,Financial Services,EOL,2,160773.08,62.0,2
+Microcontroller,ROHM,Digi-Key,Medical,Active,1,46709.86,6.0,0
+Microcontroller,ROHM,Future Electronics,Financial Services,EOL,1,150545.63,18.0,1
+Microcontroller,ROHM,PT Solutions,Financial Services,Active,1,279498.69,50.0,1
+Microcontroller,Renesas,Arrow Electronics,Financial Services,Active,1,145349.01,21.0,0
+Microcontroller,Renesas,Avnet,Renewable Energy,EOL,2,17637.04,49.0,2
+Microcontroller,Renesas,Digi-Key,Consumer Electronics,NRND,2,1473.28,51.0,2
+Microcontroller,Renesas,Digi-Key,Financial Services,EOL,2,699261.26,57.0,2
+Microcontroller,Renesas,Digi-Key,Renewable Energy,Active,1,144121.09,50.0,1
+Microcontroller,STMicroelectronics,Arrow Electronics,Automotive,EOL,1,137356.69,22.0,1
+Microcontroller,STMicroelectronics,Avnet,Consumer Electronics,Active,1,74708.82,51.0,1
+Microcontroller,STMicroelectronics,Digi-Key,Renewable Energy,Active,2,142729.65,16.5,0
+Microcontroller,STMicroelectronics,Future Electronics,Automotive,NRND,1,309434.79,20.0,1
+Microcontroller,STMicroelectronics,Mouser,Automotive,NRND,2,54343.68,44.0,2
+Microcontroller,STMicroelectronics,Mouser,Industrial Automation,NRND,1,244120.17,10.0,1
+Microcontroller,STMicroelectronics,PT Solutions,Medical,Active,1,324977.89,6.0,0
+Microcontroller,Texas Instruments,Avnet,Medical,EOL,2,415003.74,42.0,2
+Microcontroller,Texas Instruments,Future Electronics,Medical,Active,1,80676.05,27.0,0
+Microcontroller,Vishay,Arrow Electronics,Financial Services,EOL,2,117047.26,55.0,2
+Microcontroller,Vishay,Arrow Electronics,Industrial Automation,EOL,2,61815.98,65.0,2
+Microcontroller,Vishay,Arrow Electronics,Renewable Energy,Active,1,10924.06,45.0,1
+Microcontroller,Vishay,Future Electronics,Industrial Automation,Active,1,9188.73,34.0,1
+Microcontroller,Vishay,Mouser,Consumer Electronics,EOL,2,451425.24,46.0,2
+Microcontroller,Vishay,PT Solutions,Medical,Active,1,262954.83,42.0,1
+Microcontroller,Vishay,PT Solutions,Renewable Energy,NRND,1,15641.89,24.0,1
+Passive Component,Infineon,Digi-Key,Financial Services,Active,1,6520.03,12.0,0
+Passive Component,Infineon,Future Electronics,Medical,NRND,1,18586.1,13.0,1
+Passive Component,Infineon,PT Solutions,Renewable Energy,Active,1,96379.11,16.0,0
+Passive Component,Microchip,Arrow Electronics,Automotive,Active,1,52975.81,11.0,0
+Passive Component,Microchip,Arrow Electronics,Consumer Electronics,Active,1,144058.21,32.0,1
+Passive Component,Microchip,Arrow Electronics,Industrial Automation,EOL,2,179814.44,35.0,2
+Passive Component,Microchip,Avnet,Industrial Automation,EOL,2,1127913.68,54.0,2
+Passive Component,Microchip,Digi-Key,Medical,Active,1,82273.69,41.0,1
+Passive Component,Microchip,PT Solutions,Medical,Active,1,18289.18,40.0,1
+Passive Component,NXP,Digi-Key,Renewable Energy,Obsolete,1,3324.95,25.0,1
+Passive Component,NXP,Future Electronics,Financial Services,Active,1,264864.32,12.0,0
+Passive Component,NXP,Future Electronics,Renewable Energy,Active,1,174649.02,21.0,0
+Passive Component,ON Semiconductor,Arrow Electronics,Consumer Electronics,Active,1,26973.89,15.0,0
+Passive Component,ON Semiconductor,Arrow Electronics,Financial Services,Obsolete,1,666702.49,16.0,1
+Passive Component,ON Semiconductor,Avnet,Medical,NRND,1,26730.54,24.0,1
+Passive Component,ON Semiconductor,PT Solutions,Automotive,EOL,2,1490460.96,53.0,2
+Passive Component,ON Semiconductor,PT Solutions,Consumer Electronics,NRND,1,118350.61,28.0,1
+Passive Component,ON Semiconductor,PT Solutions,Medical,Active,1,8335.03,20.0,0
+Passive Component,ROHM,Arrow Electronics,Medical,Active,1,201590.34,21.0,0
+Passive Component,ROHM,Digi-Key,Consumer Electronics,NRND,2,431867.54,31.0,2
+Passive Component,ROHM,Mouser,Consumer Electronics,Active,1,130720.87,18.0,0
+Passive Component,Renesas,Future Electronics,Renewable Energy,Active,1,2500.66,15.0,0
+Passive Component,Renesas,PT Solutions,Renewable Energy,Active,1,297621.01,44.0,1
+Passive Component,STMicroelectronics,Mouser,Automotive,Active,1,102280.97,47.0,1
+Passive Component,Texas Instruments,Avnet,Consumer Electronics,Active,1,220487.64,38.0,1
+Passive Component,Texas Instruments,Avnet,Financial Services,Active,1,199498.93,51.0,1
+Passive Component,Texas Instruments,Future Electronics,Consumer Electronics,EOL,2,105541.16,36.0,2
+Passive Component,Texas Instruments,PT Solutions,Financial Services,NRND,2,79235.42,40.0,2
+Passive Component,Vishay,Arrow Electronics,Financial Services,NRND,1,5134.35,24.0,1
+Passive Component,Vishay,Arrow Electronics,Renewable Energy,EOL,2,222571.6,55.0,2
+Passive Component,Vishay,Digi-Key,Consumer Electronics,Active,1,44949.37,19.0,0
+Passive Component,Vishay,Future Electronics,Automotive,Active,1,337788.96,44.0,1
+Passive Component,Vishay,Future Electronics,Financial Services,Obsolete,1,351612.66,26.0,1
+Passive Component,Vishay,Mouser,Consumer Electronics,Obsolete,2,259742.72,58.0,2
+Power Management,Infineon,Digi-Key,Medical,Active,1,133813.12,9.0,0
+Power Management,Infineon,Mouser,Automotive,Active,1,71225.31,49.0,1
+Power Management,Microchip,Arrow Electronics,Automotive,Obsolete,1,62026.65,27.0,1
+Power Management,Microchip,Arrow Electronics,Renewable Energy,Active,1,25655.73,22.0,0
+Power Management,Microchip,Digi-Key,Industrial Automation,Obsolete,2,21948.14,49.0,2
+Power Management,Microchip,Digi-Key,Renewable Energy,Active,1,105827.4,16.0,0
+Power Management,Microchip,Future Electronics,Financial Services,NRND,2,52158.98,31.0,2
+Power Management,Microchip,PT Solutions,Automotive,NRND,2,31281.22,50.0,2
+Power Management,Microchip,PT Solutions,Renewable Energy,Active,1,40936.18,32.0,1
+Power Management,NXP,Arrow Electronics,Medical,Obsolete,1,467158.51,17.0,1
+Power Management,NXP,Future Electronics,Consumer Electronics,Active,1,112499.46,39.0,1
+Power Management,NXP,Future Electronics,Medical,Active,1,77965.82,43.0,1
+Power Management,NXP,Future Electronics,Renewable Energy,Obsolete,2,1247120.36,46.0,2
+Power Management,NXP,PT Solutions,Medical,Active,1,328057.13,33.0,1
+Power Management,ON Semiconductor,Arrow Electronics,Renewable Energy,EOL,2,433790.42,36.0,2
+Power Management,ON Semiconductor,Mouser,Consumer Electronics,EOL,2,322540.9,40.0,2
+Power Management,ON Semiconductor,Mouser,Medical,NRND,2,152454.52,38.0,2
+Power Management,ROHM,Digi-Key,Industrial Automation,Active,1,25230.93,11.0,0
+Power Management,ROHM,Future Electronics,Automotive,Active,1,54658.06,31.0,1
+Power Management,ROHM,Mouser,Consumer Electronics,EOL,2,17154.7,62.0,2
+Power Management,Renesas,Mouser,Industrial Automation,Active,1,33624.38,49.0,1
+Power Management,Renesas,PT Solutions,Automotive,Active,1,100551.24,21.0,0
+Power Management,Renesas,PT Solutions,Renewable Energy,Active,1,76224.97,8.0,0
+Power Management,STMicroelectronics,Avnet,Industrial Automation,Obsolete,2,881275.42,41.0,2
+Power Management,STMicroelectronics,Mouser,Consumer Electronics,Obsolete,1,107760.89,29.0,1
+Power Management,STMicroelectronics,PT Solutions,Renewable Energy,EOL,1,514097.09,20.0,1
+Power Management,Texas Instruments,Digi-Key,Automotive,Active,1,56541.86,34.0,1
+Power Management,Texas Instruments,Digi-Key,Financial Services,EOL,2,1622783.32,64.0,2
+Power Management,Texas Instruments,Digi-Key,Industrial Automation,EOL,1,961642.9,18.0,1
+Power Management,Texas Instruments,Digi-Key,Industrial Automation,NRND,2,158560.34,33.0,2
+Power Management,Texas Instruments,Future Electronics,Automotive,EOL,2,656041.92,49.0,2
+Power Management,Vishay,Future Electronics,Renewable Energy,Active,1,12489.45,7.0,0
+Sensor,Infineon,Digi-Key,Medical,Active,1,245592.0,6.0,0
+Sensor,Infineon,PT Solutions,Automotive,NRND,2,377640.04,41.0,2
+Sensor,Infineon,PT Solutions,Consumer Electronics,Obsolete,1,1447162.3,21.0,1
+Sensor,Microchip,Arrow Electronics,Industrial Automation,EOL,2,826923.88,34.0,2
+Sensor,Microchip,Arrow Electronics,Renewable Energy,Active,1,70391.08,40.0,1
+Sensor,Microchip,Avnet,Industrial Automation,EOL,2,1040454.46,32.0,2
+Sensor,Microchip,Future Electronics,Medical,Active,1,26044.67,8.0,0
+Sensor,Microchip,Future Electronics,Renewable Energy,Active,1,87157.19,51.0,1
+Sensor,Microchip,PT Solutions,Financial Services,Active,1,23662.58,14.0,0
+Sensor,NXP,Arrow Electronics,Consumer Electronics,Active,1,41940.32,52.0,1
+Sensor,NXP,Avnet,Consumer Electronics,Obsolete,2,585431.14,69.0,2
+Sensor,NXP,Future Electronics,Medical,Active,1,58948.08,45.0,1
+Sensor,NXP,PT Solutions,Financial Services,NRND,2,62164.72,34.0,2
+Sensor,NXP,PT Solutions,Renewable Energy,Active,1,48751.87,8.0,0
+Sensor,NXP,PT Solutions,Renewable Energy,EOL,2,240659.56,54.0,2
+Sensor,ON Semiconductor,Arrow Electronics,Financial Services,Active,1,1770.12,24.0,0
+Sensor,ON Semiconductor,Arrow Electronics,Medical,EOL,2,651357.72,48.0,2
+Sensor,ON Semiconductor,Avnet,Industrial Automation,Active,1,283043.62,19.0,0
+Sensor,ON Semiconductor,Digi-Key,Medical,Active,1,98103.1,22.0,0
+Sensor,ON Semiconductor,Digi-Key,Renewable Energy,EOL,2,411156.32,51.0,2
+Sensor,ROHM,Arrow Electronics,Medical,Active,1,8614.31,17.0,0
+Sensor,ROHM,Avnet,Consumer Electronics,Active,1,47523.4,43.0,1
+Sensor,ROHM,Digi-Key,Financial Services,Active,1,60810.07,28.0,0
+Sensor,ROHM,Digi-Key,Industrial Automation,Active,1,63850.53,45.0,1
+Sensor,ROHM,PT Solutions,Medical,Active,1,77253.14,11.0,0
+Sensor,Renesas,Arrow Electronics,Consumer Electronics,Obsolete,2,49214.08,71.0,2
+Sensor,Renesas,Digi-Key,Financial Services,EOL,2,1877279.96,40.0,2
+Sensor,Renesas,Digi-Key,Financial Services,NRND,1,29681.08,29.0,1
+Sensor,Renesas,Future Electronics,Industrial Automation,Active,1,3744.14,23.0,0
+Sensor,Renesas,PT Solutions,Financial Services,EOL,2,384099.9,65.0,2
+Sensor,STMicroelectronics,Arrow Electronics,Medical,Active,1,192704.31,7.0,0
+Sensor,Texas Instruments,Avnet,Consumer Electronics,Active,1,223363.49,25.0,0
+Sensor,Texas Instruments,Future Electronics,Financial Services,Active,1,136443.72,8.0,0
+Sensor,Texas Instruments,PT Solutions,Consumer Electronics,Active,1,17970.58,33.0,1
+Sensor,Vishay,Arrow Electronics,Consumer Electronics,Active,1,6635.43,39.0,1
+Sensor,Vishay,Arrow Electronics,Medical,NRND,2,131429.38,44.0,2
+Sensor,Vishay,Future Electronics,Financial Services,NRND,2,34149.5,32.0,2

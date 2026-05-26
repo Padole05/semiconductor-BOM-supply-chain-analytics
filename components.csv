@@ -1,0 +1,301 @@
+part_number,description,category,manufacturer,supplier,industry,lifecycle,unit_price_usd,quantity,total_cost_usd,lead_time_wks,last_updated
+REN-7912-A,Microcontroller - STM series,Microcontroller,STMicroelectronics,Arrow Electronics,Automotive,EOL,74.732,1838,137356.69,22,2026-04-03
+ST-8359-E,Connectivity - Inf series,Connectivity,Infineon,Mouser,Automotive,Obsolete,166.54,4607,767251.24,37,2025-06-27
+TI-2519-D,Sensor - NXP series,Sensor,NXP,Arrow Electronics,Consumer Electronics,Active,23.655,1773,41940.32,52,2025-12-04
+TI-5803-E,Analog IC - Mic series,Analog IC,Microchip,Mouser,Renewable Energy,Active,62.041,4402,273104.48,11,2025-11-13
+TI-7227-C,Power Management - Inf series,Power Management,Infineon,Digi-Key,Medical,Active,56.224,2380,133813.12,9,2026-01-26
+MCH-2169-E,Memory - Mic series,Memory,Microchip,PT Solutions,Industrial Automation,Active,30.23,2197,66415.31,48,2025-06-10
+REN-4598-C,Connectivity - Vis series,Connectivity,Vishay,Arrow Electronics,Industrial Automation,Active,39.319,2221,87327.5,44,2025-06-07
+ST-9179-D,Passive Component - Tex series,Passive Component,Texas Instruments,PT Solutions,Financial Services,NRND,22.795,1738,39617.71,40,2025-12-15
+MCH-8019-E,Analog IC - NXP series,Analog IC,NXP,Digi-Key,Consumer Electronics,Active,21.001,4608,96772.61,38,2026-01-11
+REN-2040-D,Memory - Inf series,Memory,Infineon,Digi-Key,Renewable Energy,Obsolete,128.802,395,50876.81,32,2026-03-08
+MCH-6573-A,Analog IC - ROH series,Analog IC,ROHM,Mouser,Financial Services,Obsolete,234.466,104,24384.51,63,2026-03-28
+REN-2743-C,Logic IC - NXP series,Logic IC,NXP,PT Solutions,Renewable Energy,Active,81.077,2167,175693.86,36,2026-02-23
+REN-6310-D,Memory - Inf series,Memory,Infineon,Arrow Electronics,Automotive,Active,64.825,4428,287045.1,37,2026-05-25
+MCH-8962-A,Analog IC - Mic series,Analog IC,Microchip,Future Electronics,Industrial Automation,Active,4.971,4657,23149.95,9,2026-04-12
+MCH-6107-D,Logic IC - NXP series,Logic IC,NXP,PT Solutions,Medical,Obsolete,55.058,4332,238510.18,56,2025-10-21
+REN-4608-A,Logic IC - Mic series,Logic IC,Microchip,Arrow Electronics,Medical,Obsolete,90.066,2040,183733.81,33,2026-04-23
+ST-5562-D,Connectivity - Tex series,Connectivity,Texas Instruments,Avnet,Renewable Energy,Active,76.965,2716,209036.94,8,2025-09-04
+TI-8062-C,Logic IC - NXP series,Logic IC,NXP,Digi-Key,Financial Services,Active,66.703,3344,223054.83,16,2026-04-07
+ST-4139-B,Microcontroller - ROH series,Microcontroller,ROHM,Future Electronics,Financial Services,EOL,184.492,816,150545.63,18,2025-10-31
+REN-2604-A,Sensor - NXP series,Sensor,NXP,PT Solutions,Renewable Energy,Active,23.712,2056,48751.87,8,2025-10-11
+IFX-1960-B,Power Management - Tex series,Power Management,Texas Instruments,Digi-Key,Automotive,Active,14.178,3988,56541.86,34,2026-02-05
+ST-4111-C,Analog IC - ON  series,Analog IC,ON Semiconductor,Avnet,Automotive,NRND,24.282,4562,110774.48,46,2025-09-18
+ST-1931-E,Microcontroller - Vis series,Microcontroller,Vishay,Arrow Electronics,Industrial Automation,EOL,73.59,420,30907.99,65,2025-09-23
+REN-2343-D,Power Management - STM series,Power Management,STMicroelectronics,PT Solutions,Renewable Energy,EOL,154.989,3317,514097.09,20,2025-08-07
+IFX-3144-C,Passive Component - Vis series,Passive Component,Vishay,Digi-Key,Consumer Electronics,Active,17.402,2583,44949.37,19,2026-01-10
+REN-4492-E,Microcontroller - STM series,Microcontroller,STMicroelectronics,Mouser,Industrial Automation,NRND,52.817,4622,244120.17,10,2026-04-18
+MCH-5956-E,Power Management - Mic series,Power Management,Microchip,PT Solutions,Renewable Energy,Active,31.441,1302,40936.18,32,2025-08-20
+NXP-5616-E,Analog IC - Tex series,Analog IC,Texas Instruments,Avnet,Medical,EOL,32.96,1110,36585.48,32,2026-03-27
+TI-7939-C,Connectivity - Mic series,Connectivity,Microchip,Arrow Electronics,Automotive,EOL,114.75,2172,249237.64,45,2025-09-17
+REN-1158-A,Memory - Mic series,Memory,Microchip,Arrow Electronics,Medical,EOL,239.791,1333,319641.91,72,2025-10-11
+TI-6050-C,Microcontroller - NXP series,Microcontroller,NXP,Arrow Electronics,Consumer Electronics,Active,49.534,1223,60580.08,31,2026-03-21
+ST-3900-D,Connectivity - Inf series,Connectivity,Infineon,Arrow Electronics,Industrial Automation,EOL,29.628,4596,136169.28,45,2025-07-12
+IFX-1634-D,Sensor - Mic series,Sensor,Microchip,Avnet,Industrial Automation,EOL,254.764,2042,520227.23,32,2026-03-05
+MCH-4164-D,Passive Component - ROH series,Passive Component,ROHM,Mouser,Consumer Electronics,Active,69.755,1874,130720.87,18,2026-05-13
+NXP-1452-A,Analog IC - STM series,Analog IC,STMicroelectronics,Mouser,Industrial Automation,Active,54.544,3284,179122.5,47,2025-08-24
+IFX-9379-A,Microcontroller - Ren series,Microcontroller,Renesas,Digi-Key,Renewable Energy,Active,50.729,2841,144121.09,50,2025-12-16
+MCH-4228-C,Analog IC - Inf series,Analog IC,Infineon,Digi-Key,Automotive,Active,60.261,23,1386.0,37,2025-08-23
+IFX-5844-E,Passive Component - Mic series,Passive Component,Microchip,Avnet,Industrial Automation,EOL,228.323,2470,563956.84,54,2025-12-18
+NXP-5700-B,Sensor - ON  series,Sensor,ON Semiconductor,Digi-Key,Renewable Energy,EOL,143.26,1435,205578.16,51,2025-08-07
+MCH-3780-A,Logic IC - Mic series,Logic IC,Microchip,Mouser,Renewable Energy,NRND,37.611,1760,66195.36,36,2025-09-25
+TI-1757-B,Power Management - Mic series,Power Management,Microchip,Digi-Key,Renewable Energy,Active,57.204,1850,105827.4,16,2026-03-11
+IFX-9099-D,Logic IC - STM series,Logic IC,STMicroelectronics,Avnet,Industrial Automation,NRND,75.327,4725,355920.08,16,2025-06-03
+REN-5082-A,Power Management - Tex series,Power Management,Texas Instruments,Digi-Key,Industrial Automation,NRND,18.641,4253,79280.17,33,2026-04-30
+IFX-3607-D,Passive Component - ROH series,Passive Component,ROHM,Digi-Key,Consumer Electronics,NRND,52.095,4145,215933.77,31,2025-08-18
+ST-5451-C,Analog IC - Inf series,Analog IC,Infineon,Mouser,Renewable Energy,Obsolete,69.81,1969,137455.06,38,2025-10-12
+TI-7797-D,Memory - STM series,Memory,STMicroelectronics,Mouser,Renewable Energy,Active,19.696,1261,24836.66,49,2026-02-05
+MCH-1320-E,Sensor - ROH series,Sensor,ROHM,Digi-Key,Financial Services,Active,17.621,3451,60810.07,28,2025-07-30
+REN-4613-D,Passive Component - Tex series,Passive Component,Texas Instruments,Avnet,Consumer Electronics,Active,64.058,3442,220487.64,38,2025-08-19
+IFX-3091-E,Logic IC - ON  series,Logic IC,ON Semiconductor,Future Electronics,Automotive,Active,33.083,3322,109901.73,50,2026-03-02
+TI-5262-D,Microcontroller - ON  series,Microcontroller,ON Semiconductor,Mouser,Industrial Automation,Active,54.652,1121,61264.89,33,2026-02-21
+NXP-2341-D,Passive Component - ROH series,Passive Component,ROHM,Arrow Electronics,Medical,Active,64.716,3115,201590.34,21,2025-10-22
+TI-5051-B,Microcontroller - Vis series,Microcontroller,Vishay,Arrow Electronics,Renewable Energy,Active,19.098,572,10924.06,45,2026-05-05
+IFX-5198-C,Connectivity - NXP series,Connectivity,NXP,Avnet,Renewable Energy,Active,40.279,947,38144.21,40,2026-02-03
+MCH-7149-D,Memory - STM series,Memory,STMicroelectronics,PT Solutions,Industrial Automation,Active,9.233,220,2031.26,23,2025-08-04
+TI-1672-C,Connectivity - STM series,Connectivity,STMicroelectronics,Future Electronics,Financial Services,Active,59.277,2480,147006.96,47,2025-07-22
+MCH-8532-B,Power Management - Mic series,Power Management,Microchip,Digi-Key,Industrial Automation,Obsolete,97.116,113,10974.07,49,2025-09-17
+NXP-5022-A,Analog IC - Vis series,Analog IC,Vishay,Mouser,Financial Services,Obsolete,177.878,4418,785865.19,50,2025-09-29
+ST-8988-B,Logic IC - Inf series,Logic IC,Infineon,Mouser,Consumer Electronics,Obsolete,141.981,3114,442128.2,43,2026-05-11
+TI-4954-D,Analog IC - Mic series,Analog IC,Microchip,Digi-Key,Renewable Energy,Obsolete,166.422,2273,378277.49,53,2026-05-20
+MCH-4986-C,Logic IC - Inf series,Logic IC,Infineon,PT Solutions,Renewable Energy,EOL,135.3,3681,498039.59,25,2026-04-08
+NXP-6023-C,Logic IC - Mic series,Logic IC,Microchip,Avnet,Automotive,Obsolete,105.068,3495,367211.69,73,2025-08-17
+MCH-8933-C,Passive Component - Inf series,Passive Component,Infineon,PT Solutions,Renewable Energy,Active,63.158,1526,96379.11,16,2026-02-04
+ST-5952-A,Analog IC - Vis series,Analog IC,Vishay,PT Solutions,Renewable Energy,Active,70.782,2436,172424.95,18,2025-11-22
+ST-9042-A,Analog IC - NXP series,Analog IC,NXP,Arrow Electronics,Renewable Energy,Active,82.816,4543,376233.09,22,2025-06-02
+IFX-2869-A,Logic IC - Ren series,Logic IC,Renesas,Digi-Key,Financial Services,NRND,37.468,1520,56951.36,7,2026-01-16
+ST-2940-E,Microcontroller - STM series,Microcontroller,STMicroelectronics,Digi-Key,Renewable Energy,Active,12.724,4620,58784.88,23,2026-04-12
+NXP-1986-E,Sensor - Inf series,Sensor,Infineon,PT Solutions,Automotive,NRND,77.227,2445,188820.02,41,2025-10-18
+REN-2229-B,Connectivity - Inf series,Connectivity,Infineon,Arrow Electronics,Financial Services,Active,56.153,1296,72774.29,19,2026-02-26
+MCH-8438-A,Logic IC - ROH series,Logic IC,ROHM,PT Solutions,Industrial Automation,Active,2.823,2370,6690.51,49,2026-01-01
+NXP-3330-A,Connectivity - Ren series,Connectivity,Renesas,Arrow Electronics,Industrial Automation,NRND,9.8,1851,18139.8,45,2026-03-10
+NXP-9199-E,Analog IC - Ren series,Analog IC,Renesas,Digi-Key,Financial Services,NRND,10.614,2501,26545.61,48,2025-10-31
+TI-4750-E,Microcontroller - STM series,Microcontroller,STMicroelectronics,Future Electronics,Automotive,NRND,62.449,4955,309434.79,20,2026-05-12
+REN-8141-D,Microcontroller - Ren series,Microcontroller,Renesas,Arrow Electronics,Financial Services,Active,40.019,3632,145349.01,21,2026-02-22
+IFX-9117-C,Sensor - Mic series,Sensor,Microchip,PT Solutions,Financial Services,Active,27.324,866,23662.58,14,2025-12-08
+IFX-9431-A,Microcontroller - Vis series,Microcontroller,Vishay,PT Solutions,Renewable Energy,NRND,7.531,2077,15641.89,24,2026-03-27
+MCH-8242-A,Sensor - ROH series,Sensor,ROHM,Avnet,Consumer Electronics,Active,15.985,2973,47523.4,43,2025-09-12
+MCH-4920-B,Memory - Vis series,Memory,Vishay,Mouser,Renewable Energy,Active,37.268,3980,148326.64,11,2026-05-11
+MCH-3522-D,Sensor - Tex series,Sensor,Texas Instruments,PT Solutions,Consumer Electronics,Active,19.138,939,17970.58,33,2026-03-26
+REN-3369-D,Analog IC - Vis series,Analog IC,Vishay,Avnet,Renewable Energy,NRND,70.96,3878,275182.88,19,2025-10-04
+NXP-1042-C,Memory - Vis series,Memory,Vishay,PT Solutions,Consumer Electronics,Active,23.517,3409,80169.45,25,2025-09-08
+REN-7180-D,Memory - ROH series,Memory,ROHM,Mouser,Industrial Automation,NRND,45.802,2837,129940.27,25,2025-08-16
+MCH-8749-D,Sensor - Inf series,Sensor,Infineon,Digi-Key,Medical,Active,72.768,3375,245592.0,6,2025-12-14
+IFX-2633-E,Logic IC - NXP series,Logic IC,NXP,Digi-Key,Automotive,Active,10.775,4844,52194.1,25,2026-04-04
+MCH-2315-C,Sensor - NXP series,Sensor,NXP,PT Solutions,Renewable Energy,EOL,193.456,622,120329.78,54,2026-01-10
+MCH-5708-B,Passive Component - ON  series,Passive Component,ON Semiconductor,PT Solutions,Automotive,EOL,185.982,4007,745230.48,53,2026-05-07
+TI-6314-A,Power Management - ON  series,Power Management,ON Semiconductor,Mouser,Consumer Electronics,EOL,193.602,833,161270.45,40,2026-03-01
+ST-3785-B,Sensor - Mic series,Sensor,Microchip,Arrow Electronics,Renewable Energy,Active,20.795,3385,70391.08,40,2025-06-10
+MCH-5161-D,Connectivity - ON  series,Connectivity,ON Semiconductor,Mouser,Medical,NRND,77.595,1182,91717.29,18,2025-10-01
+NXP-5901-D,Logic IC - Tex series,Logic IC,Texas Instruments,PT Solutions,Consumer Electronics,Active,57.613,1304,75127.35,8,2025-10-11
+IFX-6881-E,Analog IC - ROH series,Analog IC,ROHM,Mouser,Medical,Active,84.947,3968,337069.7,10,2026-01-24
+REN-9138-C,Microcontroller - Ren series,Microcontroller,Renesas,Avnet,Renewable Energy,EOL,116.033,76,8818.52,49,2025-06-08
+MCH-2591-A,Connectivity - Mic series,Connectivity,Microchip,Mouser,Financial Services,EOL,51.881,2063,107030.58,59,2025-06-22
+REN-6994-E,Passive Component - Tex series,Passive Component,Texas Instruments,Future Electronics,Consumer Electronics,EOL,21.743,2427,52770.58,36,2025-10-25
+TI-8673-A,Analog IC - NXP series,Analog IC,NXP,Avnet,Industrial Automation,NRND,82.229,2427,199569.78,51,2025-12-03
+TI-8451-C,Passive Component - ON  series,Passive Component,ON Semiconductor,PT Solutions,Medical,Active,67.218,124,8335.03,20,2025-08-24
+REN-4626-A,Sensor - Ren series,Sensor,Renesas,PT Solutions,Financial Services,EOL,214.103,897,192049.95,65,2026-01-26
+TI-2592-B,Sensor - Ren series,Sensor,Renesas,Future Electronics,Industrial Automation,Active,11.924,314,3744.14,23,2025-09-15
+MCH-3531-D,Logic IC - ON  series,Logic IC,ON Semiconductor,PT Solutions,Automotive,Active,57.008,4435,252830.48,30,2025-07-29
+IFX-4868-C,Sensor - ROH series,Sensor,ROHM,Arrow Electronics,Medical,Active,2.829,3045,8614.31,17,2025-10-10
+TI-4475-E,Passive Component - Mic series,Passive Component,Microchip,Arrow Electronics,Automotive,Active,33.872,1564,52975.81,11,2025-10-05
+ST-4538-B,Connectivity - Mic series,Connectivity,Microchip,Mouser,Industrial Automation,Active,66.904,1691,113134.66,8,2025-08-15
+TI-1422-B,Analog IC - Tex series,Analog IC,Texas Instruments,Arrow Electronics,Consumer Electronics,Active,83.94,4435,372273.9,20,2026-02-25
+REN-2862-A,Passive Component - Inf series,Passive Component,Infineon,Digi-Key,Financial Services,Active,14.852,439,6520.03,12,2025-10-22
+REN-5941-D,Power Management - Mic series,Power Management,Microchip,PT Solutions,Automotive,NRND,42.851,365,15640.61,50,2025-06-22
+IFX-2204-A,Logic IC - Tex series,Logic IC,Texas Instruments,Mouser,Renewable Energy,NRND,36.262,894,32418.23,35,2025-05-26
+NXP-7240-E,Power Management - NXP series,Power Management,NXP,Future Electronics,Consumer Electronics,Active,23.413,4805,112499.46,39,2025-05-26
+REN-4522-D,Sensor - ROH series,Sensor,ROHM,Digi-Key,Industrial Automation,Active,67.424,947,63850.53,45,2025-06-26
+NXP-5176-C,Passive Component - ON  series,Passive Component,ON Semiconductor,Avnet,Medical,NRND,33.922,788,26730.54,24,2025-10-19
+MCH-7105-B,Power Management - ROH series,Power Management,ROHM,Future Electronics,Automotive,Active,70.709,773,54658.06,31,2026-04-06
+NXP-6119-C,Passive Component - Vis series,Passive Component,Vishay,Arrow Electronics,Renewable Energy,EOL,38.295,2906,111285.8,55,2025-10-21
+REN-7022-A,Connectivity - Vis series,Connectivity,Vishay,Mouser,Renewable Energy,Active,55.84,1847,103136.48,10,2025-11-27
+TI-3955-C,Sensor - Inf series,Sensor,Infineon,PT Solutions,Consumer Electronics,Obsolete,316.666,4570,1447162.3,21,2025-07-18
+IFX-2140-B,Passive Component - Mic series,Passive Component,Microchip,PT Solutions,Medical,Active,15.46,1183,18289.18,40,2025-06-23
+NXP-6314-E,Power Management - Tex series,Power Management,Texas Instruments,Future Electronics,Automotive,EOL,106.121,3091,328020.96,49,2025-10-05
+NXP-8259-D,Memory - Tex series,Memory,Texas Instruments,Digi-Key,Renewable Energy,Active,64.139,417,26745.96,47,2026-04-14
+IFX-2816-C,Sensor - ROH series,Sensor,ROHM,PT Solutions,Medical,Active,18.363,4207,77253.14,11,2025-11-30
+ST-5938-B,Analog IC - ROH series,Analog IC,ROHM,Avnet,Consumer Electronics,Active,18.783,4919,92393.58,7,2026-05-22
+IFX-9725-B,Passive Component - Ren series,Passive Component,Renesas,Future Electronics,Renewable Energy,Active,0.707,3537,2500.66,15,2026-03-20
+IFX-2275-C,Power Management - Mic series,Power Management,Microchip,Future Electronics,Financial Services,NRND,73.257,356,26079.49,31,2026-05-16
+REN-8538-C,Sensor - ON  series,Sensor,ON Semiconductor,Arrow Electronics,Financial Services,Active,9.834,180,1770.12,24,2026-02-27
+NXP-6562-B,Connectivity - STM series,Connectivity,STMicroelectronics,Mouser,Industrial Automation,NRND,50.075,4302,215422.65,9,2025-11-04
+TI-3399-C,Power Management - STM series,Power Management,STMicroelectronics,Avnet,Industrial Automation,Obsolete,153.425,2872,440637.71,41,2025-06-29
+REN-8354-E,Power Management - NXP series,Power Management,NXP,PT Solutions,Medical,Active,80.862,4057,328057.13,33,2025-08-10
+NXP-5500-E,Passive Component - Mic series,Passive Component,Microchip,Arrow Electronics,Consumer Electronics,Active,37.408,3851,144058.21,32,2025-07-06
+NXP-2257-A,Power Management - Vis series,Power Management,Vishay,Future Electronics,Renewable Energy,Active,39.275,318,12489.45,7,2025-11-18
+MCH-4084-C,Sensor - Vis series,Sensor,Vishay,Future Electronics,Financial Services,NRND,49.349,346,17074.75,32,2025-08-06
+REN-3827-A,Memory - Vis series,Memory,Vishay,Avnet,Medical,Active,38.322,2823,108183.01,49,2026-04-12
+IFX-6543-E,Logic IC - ROH series,Logic IC,ROHM,Arrow Electronics,Medical,Obsolete,168.707,1310,221006.55,47,2025-11-16
+MCH-3463-C,Power Management - Mic series,Power Management,Microchip,Arrow Electronics,Renewable Energy,Active,8.078,3176,25655.73,22,2026-01-16
+MCH-2388-C,Passive Component - NXP series,Passive Component,NXP,Future Electronics,Financial Services,Active,82.256,3220,264864.32,12,2025-07-25
+NXP-1298-C,Memory - Mic series,Memory,Microchip,Mouser,Industrial Automation,EOL,189.79,4322,820273.47,33,2025-06-29
+NXP-2657-E,Passive Component - Inf series,Passive Component,Infineon,Future Electronics,Medical,NRND,16.361,1136,18586.1,13,2026-04-16
+MCH-3712-D,Microcontroller - Vis series,Microcontroller,Vishay,Arrow Electronics,Financial Services,EOL,54.038,1083,58523.63,55,2025-11-14
+ST-6070-D,Connectivity - Mic series,Connectivity,Microchip,Avnet,Consumer Electronics,NRND,51.92,3687,191429.04,18,2025-08-25
+ST-4271-E,Logic IC - ROH series,Logic IC,ROHM,Avnet,Consumer Electronics,Active,66.152,4129,273141.61,37,2025-10-23
+TI-5670-A,Logic IC - Tex series,Logic IC,Texas Instruments,Avnet,Consumer Electronics,Active,47.158,850,40084.3,49,2025-09-03
+TI-7797-A,Memory - ROH series,Memory,ROHM,Digi-Key,Renewable Energy,NRND,7.841,1828,14333.35,32,2025-11-28
+NXP-2623-C,Connectivity - Mic series,Connectivity,Microchip,Avnet,Industrial Automation,NRND,84.535,3081,260452.33,18,2026-05-11
+IFX-8349-E,Analog IC - Tex series,Analog IC,Texas Instruments,Arrow Electronics,Automotive,NRND,59.181,1146,67821.43,52,2025-05-29
+REN-7934-A,Analog IC - Tex series,Analog IC,Texas Instruments,Mouser,Industrial Automation,Active,70.98,4505,319764.9,50,2025-07-18
+IFX-9782-A,Power Management - Ren series,Power Management,Renesas,PT Solutions,Renewable Energy,Active,20.305,3754,76224.97,8,2026-03-30
+IFX-4068-A,Memory - Inf series,Memory,Infineon,Future Electronics,Consumer Electronics,Active,36.514,2900,105890.6,19,2025-08-06
+NXP-5155-A,Microcontroller - STM series,Microcontroller,STMicroelectronics,Mouser,Automotive,NRND,74.24,366,27171.84,44,2025-11-08
+REN-6546-B,Connectivity - Mic series,Connectivity,Microchip,PT Solutions,Financial Services,EOL,102.441,859,87996.66,60,2025-12-06
+ST-1717-B,Memory - ROH series,Memory,ROHM,Arrow Electronics,Consumer Electronics,Active,5.41,3759,20336.19,6,2025-12-26
+TI-6438-C,Sensor - Ren series,Sensor,Renesas,Arrow Electronics,Consumer Electronics,Obsolete,79.634,309,24607.04,71,2025-06-28
+NXP-9507-C,Sensor - ON  series,Sensor,ON Semiconductor,Arrow Electronics,Medical,EOL,102.511,3177,325678.86,48,2026-02-19
+NXP-2680-A,Power Management - ON  series,Power Management,ON Semiconductor,Mouser,Medical,NRND,51.228,1488,76227.26,38,2025-12-26
+IFX-6759-D,Analog IC - Ren series,Analog IC,Renesas,Arrow Electronics,Medical,NRND,51.243,3500,179350.5,14,2025-06-06
+MCH-7655-C,Sensor - Mic series,Sensor,Microchip,Future Electronics,Medical,Active,54.373,479,26044.67,8,2025-06-16
+TI-4866-C,Microcontroller - NXP series,Microcontroller,NXP,Mouser,Financial Services,Active,72.144,3599,259646.26,6,2026-03-22
+REN-7012-D,Memory - Tex series,Memory,Texas Instruments,Mouser,Medical,EOL,130.417,3048,397509.54,39,2025-10-10
+IFX-2929-C,Connectivity - Ren series,Connectivity,Renesas,Mouser,Medical,Active,2.251,1534,3453.03,35,2025-09-02
+IFX-3828-D,Connectivity - ROH series,Connectivity,ROHM,Arrow Electronics,Medical,Obsolete,44.714,4033,180331.14,26,2026-03-24
+NXP-9335-B,Passive Component - Mic series,Passive Component,Microchip,Arrow Electronics,Industrial Automation,EOL,20.199,4451,89907.22,35,2025-12-23
+IFX-3126-E,Connectivity - NXP series,Connectivity,NXP,Arrow Electronics,Automotive,NRND,2.283,4548,10383.08,40,2025-11-18
+ST-6194-A,Sensor - Ren series,Sensor,Renesas,Digi-Key,Financial Services,EOL,217.479,4316,938639.98,40,2025-10-28
+ST-3114-D,Passive Component - Vis series,Passive Component,Vishay,Future Electronics,Automotive,Active,74.633,4526,337788.96,44,2025-07-29
+NXP-9501-C,Memory - STM series,Memory,STMicroelectronics,Arrow Electronics,Consumer Electronics,Active,14.038,2653,37242.81,49,2026-01-30
+MCH-3762-E,Analog IC - Inf series,Analog IC,Infineon,Future Electronics,Industrial Automation,Active,53.146,4380,232779.48,9,2025-09-10
+MCH-4453-E,Passive Component - NXP series,Passive Component,NXP,Digi-Key,Renewable Energy,Obsolete,13.739,242,3324.95,25,2026-05-02
+NXP-8430-A,Logic IC - Tex series,Logic IC,Texas Instruments,PT Solutions,Automotive,EOL,162.933,2484,404726.29,54,2026-01-20
+ST-6121-C,Logic IC - NXP series,Logic IC,NXP,PT Solutions,Consumer Electronics,NRND,41.187,1681,69235.35,25,2025-07-19
+IFX-3007-C,Memory - ON  series,Memory,ON Semiconductor,Digi-Key,Industrial Automation,Active,43.798,879,38498.44,24,2026-01-22
+ST-3616-C,Power Management - NXP series,Power Management,NXP,Future Electronics,Medical,Active,24.704,3156,77965.82,43,2025-10-23
+NXP-9148-A,Connectivity - Mic series,Connectivity,Microchip,Arrow Electronics,Financial Services,Active,42.378,4226,179089.43,33,2025-09-12
+NXP-9108-E,Logic IC - Vis series,Logic IC,Vishay,PT Solutions,Medical,Active,18.327,2900,53148.3,7,2026-04-30
+IFX-6995-A,Analog IC - ROH series,Analog IC,ROHM,Digi-Key,Automotive,Obsolete,2.761,890,2457.36,50,2026-03-18
+IFX-5582-E,Connectivity - Vis series,Connectivity,Vishay,PT Solutions,Renewable Energy,Active,47.046,612,28792.15,28,2025-09-09
+ST-4261-E,Memory - STM series,Memory,STMicroelectronics,Future Electronics,Financial Services,Active,33.512,2787,93397.94,39,2025-11-19
+IFX-3440-E,Microcontroller - Vis series,Microcontroller,Vishay,Future Electronics,Industrial Automation,Active,3.356,2738,9188.73,34,2025-09-02
+REN-9351-E,Passive Component - Mic series,Passive Component,Microchip,Digi-Key,Medical,Active,33.431,2461,82273.69,41,2025-12-04
+NXP-1436-E,Logic IC - Ren series,Logic IC,Renesas,Digi-Key,Consumer Electronics,Active,31.342,907,28427.19,30,2025-07-31
+ST-4968-A,Microcontroller - Inf series,Microcontroller,Infineon,Future Electronics,Medical,Obsolete,140.43,4304,604409.7,64,2025-07-12
+MCH-4340-D,Connectivity - STM series,Connectivity,STMicroelectronics,Future Electronics,Renewable Energy,Active,37.516,3440,129055.04,13,2025-10-26
+REN-7173-C,Microcontroller - ROH series,Microcontroller,ROHM,Avnet,Financial Services,EOL,47.065,1708,80386.54,62,2025-12-10
+NXP-5890-B,Passive Component - Vis series,Passive Component,Vishay,Mouser,Consumer Electronics,Obsolete,59.711,2175,129871.36,58,2025-09-20
+NXP-2996-E,Logic IC - Inf series,Logic IC,Infineon,PT Solutions,Renewable Energy,Active,40.809,4601,187762.21,50,2026-01-05
+NXP-2294-C,Sensor - ON  series,Sensor,ON Semiconductor,Digi-Key,Medical,Active,81.144,1209,98103.1,22,2026-05-04
+MCH-5450-B,Logic IC - Ren series,Logic IC,Renesas,Arrow Electronics,Renewable Energy,Active,17.216,4422,76129.15,21,2025-08-11
+ST-1860-A,Connectivity - Inf series,Connectivity,Infineon,Digi-Key,Consumer Electronics,Active,56.952,4360,248310.72,18,2025-07-03
+IFX-4267-C,Power Management - ROH series,Power Management,ROHM,Mouser,Consumer Electronics,EOL,164.949,52,8577.35,62,2026-03-06
+IFX-3880-A,Power Management - Tex series,Power Management,Texas Instruments,Digi-Key,Financial Services,EOL,184.701,4393,811391.66,64,2026-05-06
+NXP-5662-D,Analog IC - NXP series,Analog IC,NXP,PT Solutions,Renewable Energy,Active,0.837,4662,3902.09,42,2026-04-01
+TI-6417-B,Logic IC - Vis series,Logic IC,Vishay,PT Solutions,Financial Services,Active,72.348,3844,278105.71,21,2026-02-16
+ST-3875-E,Memory - Ren series,Memory,Renesas,PT Solutions,Financial Services,Active,62.626,2426,151930.68,40,2025-06-14
+IFX-6301-B,Passive Component - ON  series,Passive Component,ON Semiconductor,Arrow Electronics,Consumer Electronics,Active,34.101,791,26973.89,15,2026-03-15
+MCH-1187-C,Connectivity - ON  series,Connectivity,ON Semiconductor,PT Solutions,Consumer Electronics,NRND,64.082,2710,173662.22,23,2025-07-31
+MCH-2923-C,Microcontroller - Inf series,Microcontroller,Infineon,Mouser,Renewable Energy,EOL,32.451,2523,81873.5,31,2025-10-30
+NXP-7813-E,Connectivity - Inf series,Connectivity,Infineon,Digi-Key,Renewable Energy,Active,40.672,3737,151991.26,51,2025-07-19
+TI-2838-A,Connectivity - Inf series,Connectivity,Infineon,Future Electronics,Renewable Energy,EOL,180.973,680,123061.69,56,2025-10-09
+MCH-4365-E,Memory - Inf series,Memory,Infineon,Digi-Key,Automotive,Active,27.924,4272,119291.33,32,2026-03-27
+REN-1945-E,Logic IC - Vis series,Logic IC,Vishay,Digi-Key,Medical,Active,38.569,4214,162529.77,30,2025-10-04
+REN-2196-A,Microcontroller - Ren series,Microcontroller,Renesas,Digi-Key,Consumer Electronics,NRND,21.666,34,736.64,51,2026-02-03
+IFX-3948-B,Microcontroller - STM series,Microcontroller,STMicroelectronics,PT Solutions,Medical,Active,83.822,3877,324977.89,6,2025-12-30
+MCH-9835-B,Passive Component - ON  series,Passive Component,ON Semiconductor,PT Solutions,Consumer Electronics,NRND,38.153,3102,118350.61,28,2026-04-14
+NXP-8585-E,Memory - STM series,Memory,STMicroelectronics,Digi-Key,Renewable Energy,Obsolete,119.951,1053,126308.49,58,2026-01-31
+MCH-2848-A,Connectivity - ON  series,Connectivity,ON Semiconductor,PT Solutions,Financial Services,Active,39.18,1280,50150.4,21,2026-02-18
+REN-1797-B,Connectivity - Tex series,Connectivity,Texas Instruments,PT Solutions,Automotive,Active,5.766,4875,28109.25,6,2025-10-09
+NXP-4836-E,Logic IC - ON  series,Logic IC,ON Semiconductor,Mouser,Renewable Energy,Active,45.903,472,21666.22,12,2025-09-10
+NXP-5508-A,Connectivity - Mic series,Connectivity,Microchip,Future Electronics,Renewable Energy,Active,74.488,4280,318808.64,18,2025-10-26
+NXP-7821-D,Sensor - NXP series,Sensor,NXP,Avnet,Consumer Electronics,Obsolete,103.397,2831,292715.57,69,2025-06-16
+TI-7761-D,Memory - ON  series,Memory,ON Semiconductor,Future Electronics,Renewable Energy,Obsolete,74.947,1856,139101.48,45,2025-05-28
+IFX-7079-A,Sensor - NXP series,Sensor,NXP,Future Electronics,Medical,Active,21.712,2715,58948.08,45,2026-04-15
+TI-4082-E,Microcontroller - Inf series,Microcontroller,Infineon,PT Solutions,Medical,Active,32.09,4965,159326.85,42,2026-05-05
+ST-4113-A,Connectivity - Vis series,Connectivity,Vishay,PT Solutions,Financial Services,NRND,17.795,2737,48704.92,23,2026-05-18
+IFX-8639-E,Connectivity - Inf series,Connectivity,Infineon,PT Solutions,Consumer Electronics,NRND,77.79,4532,352544.28,24,2026-01-01
+MCH-8692-C,Analog IC - Ren series,Analog IC,Renesas,Avnet,Consumer Electronics,Active,43.614,4083,178075.96,33,2026-04-05
+TI-5272-E,Sensor - Mic series,Sensor,Microchip,Future Electronics,Renewable Energy,Active,47.836,1822,87157.19,51,2026-03-12
+ST-9180-E,Analog IC - ON  series,Analog IC,ON Semiconductor,PT Solutions,Medical,Active,16.716,1894,31660.1,28,2025-08-07
+MCH-6770-B,Analog IC - Mic series,Analog IC,Microchip,Avnet,Medical,NRND,82.155,4028,330920.34,33,2026-02-28
+REN-1554-A,Logic IC - Vis series,Logic IC,Vishay,PT Solutions,Automotive,Active,77.941,4451,346915.39,45,2026-04-25
+ST-1149-B,Sensor - Tex series,Sensor,Texas Instruments,Future Electronics,Financial Services,Active,71.624,1905,136443.72,8,2025-05-28
+TI-1274-E,Microcontroller - Mic series,Microcontroller,Microchip,PT Solutions,Consumer Electronics,Obsolete,83.47,3968,331209.51,67,2025-09-18
+TI-9591-B,Analog IC - Vis series,Analog IC,Vishay,Avnet,Industrial Automation,Active,42.713,3537,151075.88,15,2026-04-01
+IFX-8520-E,Analog IC - Vis series,Analog IC,Vishay,Avnet,Medical,Active,22.759,3261,74217.1,9,2025-11-15
+IFX-7213-D,Analog IC - Inf series,Analog IC,Infineon,Future Electronics,Financial Services,EOL,239.267,670,160308.7,55,2025-06-27
+REN-1697-B,Microcontroller - Tex series,Microcontroller,Texas Instruments,Avnet,Medical,EOL,50.561,4104,207501.87,42,2025-06-29
+MCH-1539-B,Analog IC - ROH series,Analog IC,ROHM,Mouser,Automotive,Active,78.557,2306,181152.44,38,2025-08-10
+MCH-9856-C,Memory - Inf series,Memory,Infineon,Digi-Key,Medical,EOL,203.07,640,129964.78,43,2026-03-03
+NXP-7499-C,Power Management - NXP series,Power Management,NXP,Arrow Electronics,Medical,Obsolete,164.319,2843,467158.51,17,2026-04-05
+ST-7227-A,Logic IC - Ren series,Logic IC,Renesas,Future Electronics,Consumer Electronics,NRND,19.43,4540,88212.2,28,2025-10-16
+ST-7383-C,Power Management - Inf series,Power Management,Infineon,Mouser,Automotive,Active,22.814,3122,71225.31,49,2025-07-05
+TI-4070-D,Microcontroller - STM series,Microcontroller,STMicroelectronics,Digi-Key,Renewable Energy,Active,37.83,2219,83944.77,10,2026-03-19
+REN-6315-D,Sensor - Vis series,Sensor,Vishay,Arrow Electronics,Consumer Electronics,Active,2.281,2909,6635.43,39,2026-04-08
+REN-3778-D,Sensor - ON  series,Sensor,ON Semiconductor,Avnet,Industrial Automation,Active,61.625,4593,283043.62,19,2025-08-06
+NXP-7899-C,Analog IC - Ren series,Analog IC,Renesas,Digi-Key,Automotive,Active,41.941,528,22144.85,14,2025-10-15
+ST-8501-A,Analog IC - Mic series,Analog IC,Microchip,Avnet,Consumer Electronics,Active,61.29,4071,249511.59,42,2025-07-14
+NXP-8055-E,Sensor - Tex series,Sensor,Texas Instruments,Avnet,Consumer Electronics,Active,71.545,3122,223363.49,25,2025-10-12
+MCH-9044-E,Connectivity - Mic series,Connectivity,Microchip,Avnet,Consumer Electronics,NRND,26.74,3272,87493.28,24,2025-12-27
+REN-3947-E,Analog IC - ON  series,Analog IC,ON Semiconductor,Arrow Electronics,Medical,NRND,31.058,4629,143767.48,16,2025-07-26
+IFX-3280-C,Connectivity - ROH series,Connectivity,ROHM,Avnet,Consumer Electronics,NRND,67.813,576,39060.29,30,2025-06-15
+IFX-9755-E,Sensor - NXP series,Sensor,NXP,PT Solutions,Financial Services,NRND,6.333,4908,31082.36,34,2025-07-31
+TI-2791-B,Microcontroller - Vis series,Microcontroller,Vishay,PT Solutions,Medical,Active,59.654,4408,262954.83,42,2025-07-03
+IFX-2735-A,Memory - Mic series,Memory,Microchip,Arrow Electronics,Consumer Electronics,EOL,162.379,4623,750678.14,63,2025-06-13
+MCH-9199-B,Connectivity - Inf series,Connectivity,Infineon,Mouser,Automotive,NRND,31.831,3803,121053.29,47,2025-07-28
+NXP-6110-C,Power Management - ROH series,Power Management,ROHM,Digi-Key,Industrial Automation,Active,35.387,713,25230.93,11,2026-03-14
+IFX-6225-A,Logic IC - Vis series,Logic IC,Vishay,Mouser,Automotive,Active,40.5,3599,145759.5,50,2025-06-03
+REN-3858-E,Microcontroller - STM series,Microcontroller,STMicroelectronics,Avnet,Consumer Electronics,Active,55.095,1356,74708.82,51,2026-01-21
+ST-8080-D,Sensor - Vis series,Sensor,Vishay,Arrow Electronics,Medical,NRND,19.746,3328,65714.69,44,2026-02-20
+REN-2667-E,Logic IC - Inf series,Logic IC,Infineon,Avnet,Consumer Electronics,Obsolete,73.61,46,3386.08,59,2026-02-05
+NXP-7367-E,Connectivity - Mic series,Connectivity,Microchip,Digi-Key,Renewable Energy,NRND,9.73,4019,39104.87,37,2025-07-02
+NXP-2388-B,Passive Component - STM series,Passive Component,STMicroelectronics,Mouser,Automotive,Active,71.877,1423,102280.97,47,2025-05-29
+IFX-3258-E,Analog IC - Inf series,Analog IC,Infineon,Digi-Key,Financial Services,Active,15.6,1168,18220.8,36,2025-11-08
+ST-6154-D,Logic IC - NXP series,Logic IC,NXP,Future Electronics,Automotive,EOL,124.492,1429,177898.5,51,2026-03-01
+MCH-9109-D,Microcontroller - Mic series,Microcontroller,Microchip,PT Solutions,Financial Services,NRND,11.649,3155,36752.59,39,2025-09-09
+NXP-1535-C,Logic IC - ON  series,Logic IC,ON Semiconductor,Avnet,Renewable Energy,NRND,14.258,4641,66171.38,5,2026-02-02
+TI-2871-C,Memory - Ren series,Memory,Renesas,Future Electronics,Consumer Electronics,NRND,48.102,4067,195630.83,39,2025-09-06
+NXP-1528-D,Microcontroller - Vis series,Microcontroller,Vishay,Mouser,Consumer Electronics,EOL,125.396,1800,225712.62,46,2026-04-03
+MCH-6744-E,Logic IC - STM series,Logic IC,STMicroelectronics,PT Solutions,Financial Services,Active,65.94,1951,128648.94,17,2025-07-28
+REN-5605-E,Memory - NXP series,Memory,NXP,Future Electronics,Industrial Automation,Active,69.159,496,34302.86,40,2025-11-27
+ST-7743-A,Analog IC - Mic series,Analog IC,Microchip,Mouser,Medical,Active,48.704,4224,205725.7,47,2026-04-07
+IFX-9019-B,Memory - NXP series,Memory,NXP,Future Electronics,Medical,Active,12.473,2648,33028.5,19,2025-06-13
+MCH-5558-C,Sensor - Ren series,Sensor,Renesas,Digi-Key,Financial Services,NRND,38.447,772,29681.08,29,2025-09-04
+REN-7516-B,Microcontroller - Mic series,Microcontroller,Microchip,Digi-Key,Industrial Automation,EOL,25.823,3765,97221.85,54,2025-06-19
+ST-8951-C,Analog IC - ROH series,Analog IC,ROHM,PT Solutions,Automotive,Active,70.418,2776,195480.37,39,2025-08-03
+IFX-8479-A,Power Management - Tex series,Power Management,Texas Instruments,Digi-Key,Industrial Automation,EOL,254.807,3774,961642.9,18,2026-03-23
+NXP-5102-A,Analog IC - NXP series,Analog IC,NXP,Mouser,Medical,Active,74.332,2254,167544.33,9,2025-06-24
+TI-2559-A,Microcontroller - NXP series,Microcontroller,NXP,Avnet,Financial Services,NRND,53.195,1928,102559.96,31,2025-06-24
+IFX-3165-D,Memory - STM series,Memory,STMicroelectronics,Arrow Electronics,Industrial Automation,Obsolete,62.399,3655,228069.06,15,2026-05-21
+IFX-3181-B,Power Management - ON  series,Power Management,ON Semiconductor,Arrow Electronics,Renewable Energy,EOL,253.679,855,216895.21,36,2025-11-18
+IFX-8248-B,Memory - Tex series,Memory,Texas Instruments,Arrow Electronics,Automotive,NRND,29.883,1755,52444.67,44,2026-03-09
+NXP-2380-B,Power Management - NXP series,Power Management,NXP,Future Electronics,Renewable Energy,Obsolete,215.839,2889,623560.18,46,2025-12-15
+NXP-1894-B,Microcontroller - Ren series,Microcontroller,Renesas,Digi-Key,Financial Services,EOL,206.515,1693,349630.63,57,2025-07-19
+NXP-6185-B,Connectivity - STM series,Connectivity,STMicroelectronics,Digi-Key,Renewable Energy,NRND,54.255,591,32064.71,37,2026-05-19
+NXP-4534-A,Passive Component - ON  series,Passive Component,ON Semiconductor,Arrow Electronics,Financial Services,Obsolete,172.364,3868,666702.49,16,2026-05-17
+NXP-2369-C,Analog IC - Vis series,Analog IC,Vishay,Arrow Electronics,Renewable Energy,EOL,151.815,3413,518144.46,43,2025-05-31
+NXP-8167-B,Memory - Inf series,Memory,Infineon,Arrow Electronics,Industrial Automation,Obsolete,89.056,4814,428714.57,54,2025-06-27
+MCH-3877-A,Sensor - STM series,Sensor,STMicroelectronics,Arrow Electronics,Medical,Active,38.564,4997,192704.31,7,2025-12-18
+MCH-5247-B,Microcontroller - NXP series,Microcontroller,NXP,Mouser,Industrial Automation,Active,42.22,2850,120327.0,37,2025-09-03
+TI-5308-E,Power Management - Ren series,Power Management,Renesas,PT Solutions,Automotive,Active,28.509,3527,100551.24,21,2025-08-30
+TI-2889-B,Logic IC - ROH series,Logic IC,ROHM,PT Solutions,Renewable Energy,Obsolete,74.132,4102,304090.04,56,2026-03-01
+ST-3932-A,Microcontroller - Tex series,Microcontroller,Texas Instruments,Future Electronics,Medical,Active,20.825,3874,80676.05,27,2025-11-10
+REN-7108-A,Connectivity - ON  series,Connectivity,ON Semiconductor,Future Electronics,Medical,Active,21.14,2630,55598.2,21,2026-04-16
+IFX-5625-C,Memory - Tex series,Memory,Texas Instruments,Mouser,Automotive,Active,68.379,386,26394.29,29,2026-04-20
+MCH-4974-D,Logic IC - Vis series,Logic IC,Vishay,Mouser,Renewable Energy,Active,31.39,2398,75273.22,40,2025-12-21
+ST-9872-C,Connectivity - ROH series,Connectivity,ROHM,PT Solutions,Medical,EOL,293.236,2018,591749.77,21,2026-05-22
+TI-4361-E,Passive Component - Tex series,Passive Component,Texas Instruments,Avnet,Financial Services,Active,64.521,3092,199498.93,51,2025-12-19
+REN-7767-C,Microcontroller - ROH series,Microcontroller,ROHM,Digi-Key,Medical,Active,60.505,772,46709.86,6,2026-01-27
+MCH-3141-B,Power Management - STM series,Power Management,STMicroelectronics,Mouser,Consumer Electronics,Obsolete,33.26,3240,107760.89,29,2025-07-26
+ST-3230-E,Sensor - Mic series,Sensor,Microchip,Arrow Electronics,Industrial Automation,EOL,154.162,2682,413461.94,34,2025-10-06
+NXP-4401-D,Memory - STM series,Memory,STMicroelectronics,Mouser,Financial Services,NRND,39.641,3340,132400.94,11,2025-08-24
+REN-1660-B,Power Management - Ren series,Power Management,Renesas,Mouser,Industrial Automation,Active,13.439,2502,33624.38,49,2025-06-03
+NXP-3848-A,Connectivity - STM series,Connectivity,STMicroelectronics,Digi-Key,Financial Services,Active,33.711,411,13855.22,47,2025-12-23
+TI-4641-B,Connectivity - Vis series,Connectivity,Vishay,Avnet,Financial Services,Active,39.301,1155,45392.65,11,2026-05-19
+ST-2506-C,Power Management - Mic series,Power Management,Microchip,Arrow Electronics,Automotive,Obsolete,99.402,624,62026.65,27,2026-04-22
+IFX-1483-D,Microcontroller - ROH series,Microcontroller,ROHM,PT Solutions,Financial Services,Active,78.555,3558,279498.69,50,2025-11-04
+ST-1567-E,Passive Component - NXP series,Passive Component,NXP,Future Electronics,Renewable Energy,Active,77.21,2262,174649.02,21,2025-10-09
+TI-5583-D,Analog IC - Inf series,Analog IC,Infineon,Avnet,Financial Services,NRND,35.049,4521,158456.53,34,2026-04-24
+IFX-9921-D,Connectivity - Inf series,Connectivity,Infineon,Mouser,Renewable Energy,EOL,291.923,4463,1302851.44,24,2025-11-11
+ST-1480-C,Passive Component - Vis series,Passive Component,Vishay,Arrow Electronics,Financial Services,NRND,23.024,223,5134.35,24,2025-07-24
+REN-1916-B,Passive Component - Vis series,Passive Component,Vishay,Future Electronics,Financial Services,Obsolete,266.98,1317,351612.66,26,2026-01-19
+NXP-1462-C,Memory - Mic series,Memory,Microchip,Future Electronics,Renewable Energy,Active,20.145,2615,52679.17,51,2025-06-02
+TI-1920-B,Connectivity - NXP series,Connectivity,NXP,Future Electronics,Industrial Automation,NRND,46.103,1448,66757.14,35,2026-05-06
+MCH-3907-C,Logic IC - Tex series,Logic IC,Texas Instruments,Arrow Electronics,Automotive,Active,28.231,1660,46863.46,12,2025-12-02
+MCH-7481-E,Memory - NXP series,Memory,NXP,Arrow Electronics,Consumer Electronics,Active,71.959,2999,215805.04,8,2025-11-15
+MCH-6198-B,Passive Component - Ren series,Passive Component,Renesas,PT Solutions,Renewable Energy,Active,82.949,3588,297621.01,44,2025-09-18
+ST-3911-A,Connectivity - Mic series,Connectivity,Microchip,PT Solutions,Renewable Energy,EOL,167.02,1446,241510.21,45,2025-12-19
+TI-9129-B,Microcontroller - ON  series,Microcontroller,ON Semiconductor,Mouser,Medical,Active,51.223,1819,93174.64,44,2025-08-09
+MCH-6500-D,Connectivity - STM series,Connectivity,STMicroelectronics,Arrow Electronics,Consumer Electronics,Active,83.503,1385,115651.65,44,2026-04-10
