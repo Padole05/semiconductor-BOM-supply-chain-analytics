@@ -47,7 +47,7 @@ python bom_analysis.py
 ---
 
 ## Key Findings using sample data
-![alt text](image.png)
+![My Image](image.png)
 - 398 total components across 8 categories
 - $71.95M total BOM spend
 - 60% of components are at risk (EOL: 22.9%, NRND: 22.4%, Obsolete: 14.8%)
